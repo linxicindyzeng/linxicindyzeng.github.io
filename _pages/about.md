@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Yale University & The Chinese University of Hong Kong, Shenzhen.
+subtitle:
 
 profile:
   align: right

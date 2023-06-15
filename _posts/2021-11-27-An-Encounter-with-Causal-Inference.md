@@ -8,7 +8,7 @@ categories: CI
 ---
 
 
-1.	The Story Begins
+### 1. The Story Begins
 
 An ordinary day in March, I was in my instructor’s office chatting with him about life when a book on his shelf caught my eye. 
 
@@ -18,7 +18,7 @@ With wild enthusiasm, I finished the book, deconstructed it, and reconstructed i
 
 I wanted to know everything about Pearl’s school. My next prey was Causality: Models, Reasoning and Inference. I was lucky to have a wise instructor who pulled me back in time.
 
-2.	Meeting the “enemy”
+### 2. Meeting the “Enemy”
 
 After all, I still hadn’t seen the other side of the coin.
 
@@ -34,7 +34,7 @@ Another flaw of Rubin’s school is its inflexibility to changes, i.e., the lack
 
 In a sense, Pearl’s school is structural while econometrics is relatively reduced-form. It remains in question whether this reduction can be justified. However, it also remains in question whether Pearl’s school can ever be attained or put into use. In fact Pearl’s school is far from perfect, too.
 
-3.	Rivalry
+### 3. Rivalry
 
 One major concern I have for Pearl is that his approach is much closer to the philosophical aspects of causality, thus he inevitably has to deal with disentangling his science from philosophy where nothing is absolutely certain. He implies in TBW that his focus does no go beyond the day-to-day causality experienced by the human brain, which he takes as given and uses as a benchmark for the cultivation of strong AI. But this causality is not well-defined. What does an arrow in a DAG really mean? Can I draw an arrow between smoking and lung cancer? Or should I draw arrows between smoking, particles that go into the lung, body chemicals in the lung, blood circulation, cancer cells, and then lung cancer? The looseness of scale makes DAG less rigorous. However, putting restrictions on scale would require discussion that enters the realm of philosophy, which would further complicate the issue at stake. So in some sense, although DAG is rather structural compared to Rubin’s causal model, it is still reduced-form compared to real causality. Returning to the sea analogy, Pearl tries to build submarines, which is an improvement from the cruises of econometrics in the aspect of depth, but it is still not enough. However, I do hope he addresses this problem more in Causality.
 
@@ -51,4 +51,3 @@ Even when I’m not doing much reading, my mind is constantly contemplating on m
 Thinking about CI has a side-effect – it makes me feel like preferring theory to applied, at least in the field of econometrics. When I cannot give my full credence to the validity of the tool, I find it very hard to implement it with no burden on conscience, or else I myself would not even believe in the results. But somehow I’m also scared and unsure of whether I am capable of handling econometric theory. All I know is that now I’m very curious and willing to dive deeper into the topic of CI.
 
 It feels like there’s nothing else to do now but to keep calm and carry on.
-

@@ -39,7 +39,7 @@ Practicality is another concern for Pearl. To what extent is DAG applicable? Whe
 
 There are various other concerns, but I retain them now as my meager knowledge of Pearl’s school does not allow me to pose serious criticism. I hope to read *Causality* as soon as I’m freed from this semester’s coursework.
 
-I am now reading Imbens (2020), Potential Outcome and Directed Acyclic Graph Approaches to Causality: Relevance for Empirical Practice in Economics. It is gorgeous to the extent that it becomes discouraging. His ideas nest all of mine.
+I am now reading Imbens (2020), Potential Outcome and Directed Acyclic Graph Approaches to Causality: Relevance for Empirical Practice in Economics. It is gorgeous to the extent that it becomes discouraging. His ideas nest all of mine!
 
 I also attended a weekly seminar organized by Bochum University (“Why Do People Believe Weird Things? Bayesian Brains, Conspiracy Theories, and Intellectual Vices”) and read through *Notes on Bayesian Confirmation* by Michael Strevens. They helped me learn more about how Bayesian update works and why it works. Bayesian networks is central to Pearl’s CI framework.
 

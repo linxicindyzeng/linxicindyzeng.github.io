@@ -17,7 +17,7 @@ icon: android-chrome-512x512.png # the emoji used as the favicon (alternatively,
 
 url:
 # the base hostname & protocol for your site
-baseurl:
+baseurl: linxicindyzeng/linxicindyzeng.github.io
 # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR

@@ -1,0 +1,46 @@
+---
+layout: post
+title:  Stumbling upon Causal Inference
+date:   2021-11-27
+description:
+tags: CI
+categories: CI
+---
+
+### 1
+
+An ordinary day in March, I was chatting with professor Liyu Dou about life when a book on his shelf caught my eye. 
+
+Thus, the story began with *The Book of Why* (TBW) and a genuine curiosity about... why. The read was a disappointment. The book does not examine the questions whose answers I set out looking for (Do true causal relationships exist, or are they mere illusions? How can we define causal relationships? ...) But the unexpected delight was being introduced to Pearl’s school of causal inference, its intuitions, its core concepts (do-calculus, causal diagrams (DAG), Bayesian networks and belief propagation, deconfounding, etc.), and its divergence from traditional econometrics. TBW fired back at me new questions that were more tractable and no less intriguing, e.g., how to teach AI to understand causal relationships (which concerns the dissection of causal phenomena and how they are processed in the human brain)? What are the limitations of representing causal relationships with DAGs? Why isn’t Pearl’s school mainstream?
+
+With wild enthusiasm, I finished the book, deconstructed it, and reconstructed it for presentation purposes in three days. Pearl’s argument was propelling and possessing – I found potential applications of DAG in the context of Rousseau’s social contract, I imagined the possibility of accurately predicting the future given a decent causal network, and millions of questions kept me awake late into the night.
+
+My next prey was *Causality: Models, Reasoning and Inference*. I was lucky to have a wise instructor who pulled me back in time.
+
+### 2
+
+After all, I still had not seen the land TBW claimed to depart from.
+
+In the summer of my freshman year, I read *Introduction to Econometrics* by Stock & Watson and *Mostly Harmless Econometrics* by Angrist & Pischke. At first, I was suspicious of the validity of the traditional econometrician’s way of approaching causal questions. My side-notes were filled with arguments against the econometrician, siding with Pearl, because I was genuinely in doubt. Around the same time I started to prepare for my Undergraduate Research Award (URA) project, “When Pearl Meets Rubin.” My arrogance subsided as I advanced, but my overly critical attitude later proved to be beneficial for my understanding of the subject matter – I felt like engaging in a lively conversation with the authors. My question regarding one paragraph was addressed in the next. And this unprecedented feeling of interaction deeply moved me. 
+
+I started to appreciate how the econometric approach to causality is self-contained, statistically rigorous, intuitive, highly applicable and beautifully delicate in reducing unimaginable data complexities to means and regressions. However, my previous exposure to Pearl impeded me from being fully convinced by Rubin’s causal model and its variations (IV, DID, RDD). They are convenient, but in a sense they do not touch the core or the exact mechanisms of causality. Causality in econometrics seems to be a black box whose input and output are extensively studied but whose inner workings are undiscussed. If the secret of causality lies in a trench, econometrics builds only extravagant cruises and limits its action to the surface of the sea. Econometrics may argue that since most people never leave the “surface”, and since causal impacts are impactful only when it is conducted to the “surface”, there is no need to study what is happening at different depths beneath the surface or in this case, what “causality” itself really is. In my opinion, econometrics is a study about rather than of causality. Even though this would usually suffice, the “indirectness” of econometrics is both the source of its power and its fatal flaw.
+
+This observation has been verified by one of my current courses, Quantitative Methods for Policy Evaluation (ECO3211). We read classic papers that estimate the causal impact of income shocks on Tanzanian witch murder with rainfall as an IV, or the causal impact of air pollution on obesity with thermal inversion as an IV, or the causal impact of cable TV on Indian female status using DID. Sometimes the design of the quasi-experiments are ingenious, but I also feel it is not enough. No matter how many tests are passed, the conclusion still seems too rash. Each identification strategy has some assumptions that are almost impossible to be rigorously verified (exclusive restriction for IV, parallel-trend assumption for DID, etc.). The compromises of econometrics may not be as necessary as it preaches.
+
+Another flaw of Rubin’s school is its inflexibility to generalize and extend across settings. Every paper has a different specification. Any major changes in context requires remodeling and new yet highly homogeneous calculations. My understanding is that Pearl’s causal inference engine has much higher adaptability, because its initial structure is pre-established by the human brain prior to any data input, and can be partially adjusted without having to remodel from scratch. One crowning achievement of the “causal revolution” is being able to predict the effects of an intervention without actually implementing it.
+
+Abusing terminologies a little, Pearl’s school is structural while econometrics is relatively reduced-form. It remains in question whether this reduction can be justified. However, it also remains in question whether Pearl’s ideal can ever be attained or applied in real life. Pearl’s school is far from perfect, too.
+
+### 3
+
+One major concern I have for Pearl is that his approach is much closer to the philosophical aspects of causality, thus he inevitably has to deal with disentangling his science from philosophy. TBW implies that his focus does no go beyond the day-to-day causality experienced by the human brain, which he takes as given and uses as a benchmark for the training of strong AI. But this causality is not well-defined. What does an arrow in a DAG really mean? Can I draw an arrow between smoking and lung cancer? Or should I draw arrows between smoking, particles that go into the lung, body chemicals in the lung, blood circulation, cancer cells, and then lung cancer? The looseness of scale makes DAG less rigorous. However, putting restrictions on scale would require discussion that enters the realm of philosophy, which would further complicate the issue at stake. So in some sense, although DAG is rather structural compared to Rubin’s causal model, it is still reduced-form compared to real causality. Returning to the sea analogy, Pearl tries to build submarines, which is an improvement from the cruises of econometrics in the aspect of depth, but it is still not enough. However, I do hope he addresses my confusion more in *Causality*.
+
+Practicality is another concern for Pearl. To what extent is DAG applicable? When professor Ye Luo visited our school I asked for his opinion on Pearl, and he replied that DAG is already widely used in natural sciences such as biochemistry (causes and effects are easy to define), but he doubted if it will ever become mainstream in social sciences where causality is too complicated. I agree with him. According to what little knowledge of DAG I have acquired through TBW, it is far from equipped if it is to deal with actual social phenomena where hundreds and thousands of factors at simultaneously at play. 
+
+There are various other concerns, but I retain them now as my meager knowledge of Pearl’s school does not allow me to pose serious criticism. I hope to read *Causality* as soon as I’m freed from this semester’s coursework.
+
+I am now reading Imbens (2020), Potential Outcome and Directed Acyclic Graph Approaches to Causality: Relevance for Empirical Practice in Economics. It is gorgeous to the extent that it becomes discouraging. His ideas nest all of mine.
+
+I also attended a weekly seminar organized by Bochum University (“Why Do People Believe Weird Things? Bayesian Brains, Conspiracy Theories, and Intellectual Vices”) and read through *Notes on Bayesian Confirmation* by Michael Strevens. They helped me learn more about how Bayesian update works and why it works. Bayesian networks is central to Pearl’s CI framework.
+
+CI became a permanent resident of my mind since I first stumbled upon it. When professor Yangbo Song introduced Nash Bargaining as an alternative for the kind of bargaining we normally learn in game theory classes, I realized it bore a surprising similarity to the relationship between PO and DAG, with the former being nonchalant to what exactly happens inside the black box and the latter especially drawn to it. The interesting thing is, the latter is mainstream in game theory whereas the former is mainstream in CI. It may be because game theory is primarily concerned with mechanisms and these mechanisms are manageable and well-defined, while CI is more concerned with outcomes and its mechanisms are extremely hard to define. I thought contrasts like this were fun and sometimes insightful. 

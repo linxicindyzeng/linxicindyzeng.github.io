@@ -21,6 +21,6 @@ social: true  # includes social icons at the bottom of the page
 Welcome!
 
 I am an aspiring labor economist interested in education, inequality and causal inference. I am currently a senior
- at The Chinese University of Hong Kong, Shenzhen and a visiting student at Yale University.
+ at Yale University and The Chinese University of Hong Kong, Shenzhen.
 
 Email: linxi.zeng@yale.edu / linxizeng@link.cuhk.edu.cn

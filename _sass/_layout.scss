@@ -33,6 +33,18 @@ body.sticky-bottom-footer {
   }
 }
 
+/* Custom */
+
+article img {
+  max-width: 100%;
+}
+
+iframe {
+  border: none;
+  width: 100%;
+  aspect-ratio: 3/2;
+}
+
 // TODO: redefine content layout.
 
 

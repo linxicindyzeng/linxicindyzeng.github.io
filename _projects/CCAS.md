@@ -25,6 +25,7 @@ Below is an interactive graph of the age of each 1m city's high school CCAS in 2
 It can already be seen that the "biggest" cities in China, Beijing, Shanghai, Shenzhen, and more generally, the south-east coastal cities were pioneers in implementing a CCAS on the high school level.
 
 ![Interactive Graph](/assets/img/Agein2020.html)
+<iframe src="/assets/img/Agein2020.html"></iframe>
 
 Flow graphs:
 

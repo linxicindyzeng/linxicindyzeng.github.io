@@ -117,6 +117,17 @@ body.sticky-bottom-footer {
   width: 100%;
 }
 
+/* Custom */
+article img {
+  max-width: 100%;
+}
+
+iframe {
+  border: none;
+  width: 100%;
+  aspect-ratio: 3/2;
+}
+
 /******************************************************************************
  * Publications
  ******************************************************************************/
@@ -917,6 +928,17 @@ nav[data-toggle=toc] .nav-link.active:hover {
 }
 .post .post-content blockquote.block-danger h1, .post .post-content blockquote.block-danger h2, .post .post-content blockquote.block-danger h3, .post .post-content blockquote.block-danger h4, .post .post-content blockquote.block-danger h5, .post .post-content blockquote.block-danger h6 {
   color: var(--global-danger-block-title);
+}
+
+/* Custom */
+article img {
+  max-width: 100%;
+}
+
+iframe {
+  border: none;
+  width: 100%;
+  aspect-ratio: 3/2;
 }
 
 /*******************************************************************************

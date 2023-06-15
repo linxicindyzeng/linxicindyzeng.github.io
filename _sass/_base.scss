@@ -949,7 +949,7 @@ nav[data-toggle="toc"] {
       border-left-color: var(--global-hover-color);
     }
   }
-}
+}down
 
 /* small screens */
 @media (max-width: 576px) {
@@ -1001,16 +1001,4 @@ nav[data-toggle="toc"] {
       color: var(--global-danger-block-title);
     }
   }
-}
-
-/* Custom */
-
-article img {
-  max-width: 100%;
-}
-
-iframe {
-  border: none;
-  width: 100%;
-  aspect-ratio: 3/2;
 }

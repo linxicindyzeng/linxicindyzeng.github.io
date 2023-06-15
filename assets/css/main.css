@@ -109,8 +109,8 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 #light-toggle { padding: 0; border: 0; background-color: inherit; color: var(--global-text-color); }
 #light-toggle:hover { color: var(--global-hover-color); }
 
-.social { text-align: center; }
-.social .contact-icons { font-size: 4rem; }
+.social { text-align: left; }
+.social .contact-icons { font-size: 2rem; }
 .social .contact-icons a i::before { color: var(--global-text-color); transition-property: all 0.2s ease-in-out; }
 .social .contact-icons a:hover i::before { color: var(--global-theme-color); }
 .social .contact-note { font-size: 0.8rem; }

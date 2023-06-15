@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-15T21:48:32+00:00</updated><id>/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-15T22:06:45+00:00</updated><id>/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">Stumbling upon Causal Inference</title><link href="/blog/2021/stumbling-upon-causal-inference/" rel="alternate" type="text/html" title="Stumbling upon Causal Inference" /><published>2021-11-27T00:00:00+00:00</published><updated>2021-11-27T00:00:00+00:00</updated><id>/blog/2021/stumbling-upon-causal-inference</id><content type="html" xml:base="/blog/2021/stumbling-upon-causal-inference/">&lt;h3 id=&quot;1&quot;&gt;1&lt;/h3&gt;
 
 &lt;p&gt;An ordinary day in March, I was chatting with professor Liyu Dou about life when a book on his shelf caught my eye.&lt;/p&gt;
@@ -31,7 +31,7 @@
 
 &lt;p&gt;There are various other concerns, but I retain them now as my meager knowledge of Pearl’s school does not allow me to pose serious criticism. I hope to read &lt;em&gt;Causality&lt;/em&gt; as soon as I’m freed from this semester’s coursework.&lt;/p&gt;
 
-&lt;p&gt;I am now reading Imbens (2020), Potential Outcome and Directed Acyclic Graph Approaches to Causality: Relevance for Empirical Practice in Economics. It is gorgeous to the extent that it becomes discouraging. His ideas nest all of mine.&lt;/p&gt;
+&lt;p&gt;I am now reading Imbens (2020), Potential Outcome and Directed Acyclic Graph Approaches to Causality: Relevance for Empirical Practice in Economics. It is gorgeous to the extent that it becomes discouraging. His ideas nest all of mine!&lt;/p&gt;
 
 &lt;p&gt;I also attended a weekly seminar organized by Bochum University (“Why Do People Believe Weird Things? Bayesian Brains, Conspiracy Theories, and Intellectual Vices”) and read through &lt;em&gt;Notes on Bayesian Confirmation&lt;/em&gt; by Michael Strevens. They helped me learn more about how Bayesian update works and why it works. Bayesian networks is central to Pearl’s CI framework.&lt;/p&gt;
 

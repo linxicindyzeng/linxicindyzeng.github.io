@@ -13,7 +13,7 @@ footer_text: ""
 keywords: cindy, labor economics, education, causal inference  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: favicon-16x16.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: android-chrome-512x512.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url:
 # the base hostname & protocol for your site

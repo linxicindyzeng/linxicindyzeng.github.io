@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-15T03:41:12+00:00</updated><id>/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-</subtitle><entry><title type="html">An Encounter with Causal Inference</title><link href="/blog/2021/An-Encounter-with-Causal-Inference/" rel="alternate" type="text/html" title="An Encounter with Causal Inference" /><published>2021-11-27T00:00:00+00:00</published><updated>2021-11-27T00:00:00+00:00</updated><id>/blog/2021/An-Encounter-with-Causal-Inference</id><content type="html" xml:base="/blog/2021/An-Encounter-with-Causal-Inference/">&lt;ol&gt;
-  &lt;li&gt;The Story Begins&lt;/li&gt;
-&lt;/ol&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-06-15T05:24:59+00:00</updated><id>/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+</subtitle><entry><title type="html">An Encounter with Causal Inference</title><link href="/blog/2021/An-Encounter-with-Causal-Inference/" rel="alternate" type="text/html" title="An Encounter with Causal Inference" /><published>2021-11-27T00:00:00+00:00</published><updated>2021-11-27T00:00:00+00:00</updated><id>/blog/2021/An-Encounter-with-Causal-Inference</id><content type="html" xml:base="/blog/2021/An-Encounter-with-Causal-Inference/">&lt;h3 id=&quot;1-the-story-begins&quot;&gt;1. The Story Begins&lt;/h3&gt;
 
 &lt;p&gt;An ordinary day in March, I was in my instructor’s office chatting with him about life when a book on his shelf caught my eye.&lt;/p&gt;
 
@@ -11,9 +9,7 @@
 
 &lt;p&gt;I wanted to know everything about Pearl’s school. My next prey was Causality: Models, Reasoning and Inference. I was lucky to have a wise instructor who pulled me back in time.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Meeting the “enemy”&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h3 id=&quot;2-meeting-the-enemy&quot;&gt;2. Meeting the “Enemy”&lt;/h3&gt;
 
 &lt;p&gt;After all, I still hadn’t seen the other side of the coin.&lt;/p&gt;
 
@@ -29,9 +25,7 @@
 
 &lt;p&gt;In a sense, Pearl’s school is structural while econometrics is relatively reduced-form. It remains in question whether this reduction can be justified. However, it also remains in question whether Pearl’s school can ever be attained or put into use. In fact Pearl’s school is far from perfect, too.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Rivalry&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h3 id=&quot;3-rivalry&quot;&gt;3. Rivalry&lt;/h3&gt;
 
 &lt;p&gt;One major concern I have for Pearl is that his approach is much closer to the philosophical aspects of causality, thus he inevitably has to deal with disentangling his science from philosophy where nothing is absolutely certain. He implies in TBW that his focus does no go beyond the day-to-day causality experienced by the human brain, which he takes as given and uses as a benchmark for the cultivation of strong AI. But this causality is not well-defined. What does an arrow in a DAG really mean? Can I draw an arrow between smoking and lung cancer? Or should I draw arrows between smoking, particles that go into the lung, body chemicals in the lung, blood circulation, cancer cells, and then lung cancer? The looseness of scale makes DAG less rigorous. However, putting restrictions on scale would require discussion that enters the realm of philosophy, which would further complicate the issue at stake. So in some sense, although DAG is rather structural compared to Rubin’s causal model, it is still reduced-form compared to real causality. Returning to the sea analogy, Pearl tries to build submarines, which is an improvement from the cruises of econometrics in the aspect of depth, but it is still not enough. However, I do hope he addresses this problem more in Causality.&lt;/p&gt;
 
@@ -47,4 +41,4 @@
 
 &lt;p&gt;Thinking about CI has a side-effect – it makes me feel like preferring theory to applied, at least in the field of econometrics. When I cannot give my full credence to the validity of the tool, I find it very hard to implement it with no burden on conscience, or else I myself would not even believe in the results. But somehow I’m also scared and unsure of whether I am capable of handling econometric theory. All I know is that now I’m very curious and willing to dive deeper into the topic of CI.&lt;/p&gt;
 
-&lt;p&gt;It feels like there’s nothing else to do now but to keep calm and carry on.&lt;/p&gt;</content><author><name></name></author><category term="CI" /><category term="CI" /><summary type="html">The Story Begins</summary></entry></feed>
+&lt;p&gt;It feels like there’s nothing else to do now but to keep calm and carry on.&lt;/p&gt;</content><author><name></name></author><category term="CI" /><category term="CI" /><summary type="html">1. The Story Begins</summary></entry></feed>

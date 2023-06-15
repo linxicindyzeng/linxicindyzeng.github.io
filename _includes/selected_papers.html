@@ -1,4 +1,6 @@
 
           <div class="publications">
+            {% comment %}
             {% bibliography -f {{ site.scholar.bibliography }} -q @*[selected=true]* %}
+            {% endcomment %}
           </div>

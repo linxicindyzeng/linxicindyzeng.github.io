@@ -8,7 +8,7 @@ middle_name: Cindy
 last_name: Zeng
 email: linxi.zeng@yale.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Academic and personal site for Linxi Cindy Zeng.
 footer_text: ""
 keywords: cindy, labor economics, education, causal inference  # add your own keywords or leave empty
 

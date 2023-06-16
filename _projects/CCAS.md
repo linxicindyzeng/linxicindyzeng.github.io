@@ -1,11 +1,15 @@
 ---
-layout: page
+layout: post
 title: CCAS in China
-description: Graphs on the Evolution of CCAS in China
-img: assets/img/H.png
+date: 2023-05-20
+description: "The History and Current Status of Centralized Choice and Assignment Systems in China"
+img: assets/img/Comb1.png
 importance: 1
-category: work
+category: Work
+
 ---
+Advisor: [Christopher Neilson](https://christopherneilson.github.io/)
+
 
 ## Graphs on the Evolution of CCAS in China
 
@@ -16,41 +20,58 @@ This project started as a sub-project of "Worldwide CCAS," focusing on [China's 
 I then put together a panel data set of the 135 cities, 2003-2022, using the above and National Bureau of Statistics's China City Statistical Yearbook, which has a rich set of city-level socio-economic indices. Variables on city characteristics are: City name, CCAS switch year, Characteristic year, Household registered population year-end, Gross Regional Product, Per capita GRP, GRP Growth Rate (%), Expenditure on education (10 000 yuan), Number of regular secondary Schools, Regular Primary Schools, and number of students in colleges, secondary schools, vocational secondary schools, and elementary schools.
 
 ### Descriptive Statistics
-Number and percentage of city-level CCAS in primary, middle, and high school admission (2003-2022) among 129 cities whose 2020 population exceeds 1 million.
 
-![Descriptive Statistics](/assets/img/Comb1.png)
+#### Stock Graphs
+
+<div style="text-align: center; margin: 16px;">
+Number and percentage of city-level CCAS in primary, middle, and high school admission (2003-2022) among 129 cities whose 2020 population exceeds 1 million
+</div>
+
+![Number and percentage of city-level CCAS in primary, middle, and high school admission (2003-2022) among 129 cities whose 2020 population exceeds 1 million](/assets/img/Comb1.png)
 
 Below is an interactive graph of the age of each 1m city's high school CCAS in 2020. I plan to develop this into a graph containing information from 2003 to 2022, and each year is a layer the user can select to display or hide. This would be a good visualization of the first movers (the cities with darker shades) and the dynamic spread over time. It will be easy given that I've already visualized 2020's data. I will only need a bit more time to learn addTiles().
 
 It can already be seen that the "biggest" cities in China, Beijing, Shanghai, Shenzhen, and more generally, the south-east coastal cities were pioneers in implementing a CCAS on the high school level.
 
-![Interactive Graph](/assets/img/Agein2020.html)
 <iframe src="/assets/img/Agein2020.html"></iframe>
 
-Flow graphs:
+#### Flow Graphs
 
-![Flow Graph 1](/assets/img/H_flow.png)
+![Number of New City-Level CCAS for High School Admission/Year](/assets/img/H_flow.png)
 
-![Flow Graph 2](/assets/img/PM_flow.png)
+![Number of New City-Level CCAS for Primary and Middle School Admission/Year](/assets/img/PM_flow.png)
 
-Establishment year of existing CCAS:
+![High School CCAS Establishment Year](/assets/img/H.png)
 
-![Establishment Year 1](/assets/img/H.png)
-
-![Establishment Year 2](/assets/img/PM.png)
+![Primary and Middle School CCAS Establishment Year](/assets/img/PM.png)
 
 ### Prediction Model
 
 The following is an extremely preliminary fit using a simple logit model on the data (sample size = 2495). Specification:
+
 $$ swi = \alpha + \gamma year + \beta X + e $$
 								
-where $swi$ is a switch year indicator that equals 1 if switch year ≤ characteristic year, 0 otherwise. $X$ are explanatory variables including population, GRP per capita, and goverment expenditure on education.
+where $$swi$$ is a switch year indicator that equals 1 if switch year ≤ characteristic year, 0 otherwise. $$X$$ are explanatory variables including population, GRP per capita, and goverment expenditure on education.
 
-(/assets/img/plot_popu.png)
-(/assets/img/plot_grppc.png)
+<table>
+  <tr>
+    <td>
+      <img src="/assets/img/plot_popu.png" alt="Plot 1">
+    </td>
+    <td>
+      <img src="/assets/img/plot_grppc.png" alt="Plot 2">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/assets/img/plot_eduexp.png" alt="Plot 3">
+    </td>
+    <td>
+      <img src="/assets/img/plot_year.png" alt="Plot 4">
+    </td>
+  </tr>
+</table>
 
-(/assets/img/plot_eduexp.png)
-(/assets/img/plot_year.png)
+Below is a regression table that shows the coefficients are extremely close to 0, which is expected due to the small sample size and lack of rigorous control variables. To perform this analysis, we look forward to exploiting a world-wide data set that is currently being collected and whose structure is similar to what I have demonstrated for China here.
 
-(/assets/img/regression_table.html)
-(/assets/img/3d_plot.html)
+<iframe src="/assets/img/regression_table.html"></iframe>

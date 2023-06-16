@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Ongoing work
+description: Ongoing
 nav: true
 nav_order: 1
-display_categories: [work, fun]
+display_categories: [Work, Paper of the Day (POTD), Fun]
 horizontal: false
 ---
 

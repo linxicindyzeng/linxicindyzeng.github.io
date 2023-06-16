@@ -10,9 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>CCAS in China | Linxi Cindy Zeng</title>
+    <title>Deming (2023) | Linxi Cindy Zeng</title>
     <meta name="author" content="Linxi Cindy Zeng">
-    <meta name="description" content="The History and Current Status of Centralized Choice and Assignment Systems in China">
+    <meta name="description" content="[06/16/23] Why Do Wages Grow Faster for Educated Workers?">
     <meta name="keywords" content="cindy, labor economics, education, causal inference">
 
 
@@ -38,7 +38,7 @@
     <link rel="shortcut icon" href="/assets/img/android-chrome-512x512.png">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="/projects/CCAS/">
+    <link rel="canonical" href="/projects/2023-06-16-Deming_2023/">
 
     <!-- Dark Mode -->
     
@@ -115,13 +115,17 @@
 <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">CCAS in China</h1>
-    <p class="post-meta">May 20, 2023</p>
+    <h1 class="post-title">Deming (2023)</h1>
+    <p class="post-meta">June 16, 2023</p>
     <p class="post-tags">
       <a href="/blog/2023"> <i class="fas fa-calendar fa-sm"></i> 2023 </a>
         ·  
-        <a href="/blog/category/work">
-          <i class="fas fa-tag fa-sm"></i> Work</a>  
+        <a href="/blog/tag/labor">
+          <i class="fas fa-hashtag fa-sm"></i> labor</a>  
+          
+        ·  
+        <a href="/blog/category/paper-of-the-day-potd">
+          <i class="fas fa-tag fa-sm"></i> Paper of the Day (POTD)</a>  
           
 
     </p>
@@ -130,72 +134,77 @@
   <article class="post-content">
     
     <div id="markdown-content">
-      <p>Advisor: <a href="https://christopherneilson.github.io/" rel="external nofollow noopener" target="_blank">Christopher Neilson</a></p>
+      <p>See paper <a href="https://cowles.yale.edu/sites/default/files/2023-06/Deming_OJL_June2023.pdf" rel="external nofollow noopener" target="_blank">here</a>.
+Retrieved 06/15/2023.</p>
 
-<h2 id="graphs-on-the-evolution-of-ccas-in-china">Graphs on the Evolution of CCAS in China</h2>
+<h3 id="comments">Comments</h3>
+<ul>
+  <li>Descriptive statistics and the right regressions can take you very far.</li>
+  <li>Seperate:
+    <ul>
+      <li>jobs with higher wages / jobs that increase your human capital for a given work experience</li>
+      <li>pre-market school intervention on earnings / post-market on-the-job learning on earnings*</li>
+      <li>wage growth: within- / between-job components</li>
+      <li>sorting or ability bias (workers with higher learning ability \(\alpha\) will spend more time in school regardless of their occupation, and wage growth is increasing in learning) / returns to scale in learning (wages grow faster in complex jobs even after conditioning on learning ability and completed schooling)</li>
+    </ul>
+  </li>
+</ul>
 
-<p>A Centralized Choice and Assignment System (CCAS) at an education level is defined by the simultaneous existence of educational institutions whose enrollment is at least partially determined by an external agency or platform, applicants who submit a list of their preferences to the agency, and the agency then giving the applicants a single offer, using certain criteria and allocation rules. Neilson (2019) documents the rise of CCAS in primary, secondary and tertiary education markets worldwide, and increasing research is being conducted on characteristics of existing CCAS (e.g., time of establishment, form of preference list, assignment mechanisms) and how they can be designed to facilitate education equity (see Akbarpour et al. (2022), Arteaga et al. (2022), Kapor, Neilson, &amp; Zimmerman (2020)).</p>
+<h3 id="main-findings">Main Findings</h3>
+<ol>
+  <li>The college wage premium doubles over the life cycle, e.g., from 27 percent at age 25 to 60 percent at age 55 in the U.S.</li>
+  <li>This growth is primarily explained by occupational sorting. In particular, early career occupational sorting explains at least half of the life cycle growth in the college wage premium. (Right after graduation, educated workers are more likely to switch jobs than non-educated workers, but less likely to switch thereafter \(\Rightarrow\) the rising college premium is mostly explained by wage growth within rather than between jobs.)</li>
+  <li>The Mincer earnings function substantially understates the life cycle return to education, linearly interacting education with work experience works better.</li>
+  <li>For college graduates, job mobility increases net wage growth only right after completing schooling, and the correlation turns negative after mid-career. For high school graduates, total and within-job wage growth are nearly identical throughout life.</li>
+  <li>College educated workers sort into nonroutine occupations shortly after completing schooling, whereas the occupation mix changes very little for workers after they finish high school.</li>
+  <li>There is a negative correlation between wage growth speed and occupation routineness.</li>
+</ol>
 
-<p>This project started as a sub-project of “Worldwide CCAS,” focusing on <a href="https://www.citypopulation.de/en/china/cities/" rel="external nofollow noopener" target="_blank">China’s 135 cities whose population exceeded 1 million in 2020</a>. I collected a cross-section data set documenting CCAS characteristics in primary and secondary education in these cities primarily from reading 2022’s policy documents by local bureaus of education. Variables include: Existence of a CCAS, Participating institutions, List length, Website to apply, Implementation year of a CCAS, Priority groups, and Mechanisms (Deferred Acceptance, Boston, Serial Dictatorship, etc.)</p>
+<h3 id="data">Data</h3>
+<ul>
+  <li>Annual or biennial individual education and premarket skills, employment, wages and earnings, and occupation and employer history from:
+    <ol>
+      <li>1979 National Longitudinal Survey of Youth (NLSY79): a nationally representative sample of 11,406 youth ages 14 to 22 in 1979.</li>
+      <li>1997 NLSY (NLSY97): a nationally representative sample of 8,984 youth age 12 to 17 in 1997.</li>
+    </ol>
+    <ul>
+      <li>\(\Rightarrow\) (Fractional) measures of yearly work experience, with one year equalling 2,080 hours (52 weeks times 40 hours per week).</li>
+    </ul>
+  </li>
+  <li>Inflation-adjusted log hourly wage</li>
+  <li>Measure of cognitive skill: Armed Forces Qualifying Test (AFQT) scores age-normed mapped across waves.</li>
+</ul>
 
-<p>I then put together a panel data set of the 135 cities, 2003-2022, using the above and National Bureau of Statistics’s China City Statistical Yearbook, which has a rich set of city-level socio-economic indices. Variables on city characteristics are: City name, CCAS switch year, Characteristic year, Household registered population year-end, Gross Regional Product, Per capita GRP, GRP Growth Rate (%), Expenditure on education (10 000 yuan), Number of regular secondary Schools, Regular Primary Schools, and number of students in colleges, secondary schools, vocational secondary schools, and elementary schools.</p>
+<h3 id="model">Model</h3>
+<p>Existing economic models of human capital and wage determination are unsatisfactory in light of these results.</p>
+<ul>
+  <li>Mincer: workers maximize the present discounted value of lifetime earnings by working and investing in human capital, and the rate of return to investment is constant over time for individuals.</li>
+  <li>Supply-demand-institutions (SDI) canonical framework: low- and high-skilled labor groups are taken as given, and the college wage premium is determined by the race between growing relative supply of college graduates and growing relative demand from skill-biased technology.</li>
+</ul>
 
-<h3 id="descriptive-statistics">Descriptive Statistics</h3>
+<blockquote style="color: #00356B; margin: 32px; font-size: inherit;">
+Goldin and Katz (2018) argue that the sharp rise in U.S. wage dispersion since 1980 has involved a large increase in between-group wage differentials driven by a rise in the returns to education and a large increase in within-group (residual) wage inequality (p. 52). On the demand side, the rising demand for highly educated and more-skilled workers relative to less educated workers is driven primarily by 1&gt; skill-biased technological changes and 2&gt; increased global trade that outsources lower-skilled work. On the supply side, there is a slowing down in the growth rate of supply due to a slower rate of increase in the educational attainment of successive cohorts born after 1950, changes in entering labor force cohort size, and an increased rate of unskilled immigration. The author also notes the changes in labor market institutions can reconcile preferences patterns in the skill premium when the simple supply-demand model falls short. However, the majority of the evolution of wage differentials can be explained using the simple supply-demand framework (p. 293). (Excerpt from my midterm answer for GLBL6140 at Yale.)
+</blockquote>
 
-<h4 id="stock-graphs">Stock Graphs</h4>
+<p>In this paper, Deming extends Ben-Porath (1967) to allow for heterogeneous learning ability and job complexity.</p>
 
-<div style="text-align: center; margin: 16px;">
-Number and percentage of city-level CCAS in primary, middle, and high school admission (2003-2022) among 129 cities whose 2020 population exceeds 1 million
-</div>
+<p>The worker’s problem:</p>
 
-<p><img src="/assets/img/Comb1.png" alt="Number and percentage of city-level CCAS in primary, middle, and high school admission (2003-2022) among 129 cities whose 2020 population exceeds 1 million"></p>
+\[\begin{gathered}
+\max_s \sum_{t=1}^T \beta^{t-1} w_{k t}\left(1-s_t\right) \\
+\text { s.t. } s_t=1-l_{k t} ; 0 \leq l_{k t} \leq 1 ; 0 \leq s_t \leq 1 \\
+w_{k t}=w\left(h_t, A_{k t}, \overrightarrow{L_{k t}}, \sigma\right)
+\end{gathered}\]
 
-<p>Below is an interactive graph of the age of each 1m city’s high school CCAS in 2020. I plan to develop this into a graph containing information from 2003 to 2022, and each year is a layer the user can select to display or hide. This would be a good visualization of the first movers (the cities with darker shades) and the dynamic spread over time. It will be easy given that I’ve already visualized 2020’s data. I will only need a bit more time to learn addTiles().</p>
+<p>where \(k\) indexes occupations and \(t\) indexes years, and \(\beta\) is a discount factor. Workers retire exogenously at time \(T&gt;t\) and choose skill investment \(s\) to maximize the present discounted value of lifetime earnings (wages \(w_{k t}\) times labor supply \(l_{k t}\)), subject to a time allocation constraint. Wages depend on human capital \(h_t\), but also on occupation skill prices \(A_{k t}\), total labor supplied in the aggregate economy to each occupation type \(\overrightarrow{L_{k t}}\), and the elasticity of substitution between occupations \(\sigma\).</p>
 
-<p>It can already be seen that the “biggest” cities in China, Beijing, Shanghai, Shenzhen, and more generally, the south-east coastal cities were pioneers in implementing a CCAS on the high school level.</p>
+<p>Time at work increases earnings, but skill investment increases earnings potential. The production function for human capital is:</p>
 
-<iframe src="/assets/img/Agein2020.html"></iframe>
+\[h_{k t+1}=h_{k t}+\alpha\left(s_t h_{k t}\right)^{\theta_k}\]
 
-<h4 id="flow-graphs">Flow Graphs</h4>
+<p>with \(0&lt;\theta_k&lt;1\) and \(h_{k 1}&gt;0\) by assumption. Future human capital is a function of current human capital and time spent investing \(\left(s_t\right)\). The scale parameter \(\alpha&gt;0\) represents the worker’s learning ability with individual subscripts suppressed for notational convenience. Faster learners acquire more human capital per unit of time invested. The share parameter \(\theta_k\) represents the output elasticity of investment in human capital, and is specific to occupation \(k\). Jobs with higher \(\theta_k\) allow for greater returns to scale in human capital investment.</p>
 
-<p><img src="/assets/img/H_flow.png" alt="Number of New City-Level CCAS for High School Admission/Year"></p>
-
-<p><img src="/assets/img/PM_flow.png" alt="Number of New City-Level CCAS for Primary and Middle School Admission/Year"></p>
-
-<p><img src="/assets/img/H.png" alt="High School CCAS Establishment Year"></p>
-
-<p><img src="/assets/img/PM.png" alt="Primary and Middle School CCAS Establishment Year"></p>
-
-<h3 id="prediction-model">Prediction Model</h3>
-
-<p>The following is an extremely preliminary fit using a simple logit model on the data (sample size = 2495). Specification:</p>
-
-\[swi = \alpha + \gamma year + \beta X + e\]
-
-<p>where \(swi\) is a switch year indicator that equals 1 if switch year ≤ characteristic year, 0 otherwise. \(X\) are explanatory variables including population, GRP per capita, and goverment expenditure on education.</p>
-
-<table>
-  <tr>
-    <td>
-      <img src="/assets/img/plot_popu.png" alt="Plot 1">
-    </td>
-    <td>
-      <img src="/assets/img/plot_grppc.png" alt="Plot 2">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="/assets/img/plot_eduexp.png" alt="Plot 3">
-    </td>
-    <td>
-      <img src="/assets/img/plot_year.png" alt="Plot 4">
-    </td>
-  </tr>
-</table>
-
-<p>Below is a regression table that shows the coefficients are extremely close to 0, which is expected due to the small sample size and lack of rigorous control variables. To perform this analysis, we look forward to exploiting a world-wide data set that is currently being collected and whose structure is similar to what I have demonstrated for China here.</p>
-
-<iframe src="/assets/img/regression_table.html"></iframe>
+<p>Equilibria with one occupation (\(\theta_k=\theta\)) or two occupations (routine or complex, \(\theta_c&gt;\theta_r\)) are discussed.</p>
 
     </div>
   </article>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Stumbling upon Causal Inference
+# title:  Stumbling upon Causal Inference
 date:   2021-11-27
 description:
 tags: CI

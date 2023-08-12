@@ -10,10 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>CI | Linxi Cindy Zeng</title>
+    <title>Wang,deliu,narita,chakraborty_2022 | Linxi Cindy Zeng</title>
     <meta name="author" content="Linxi Cindy Zeng">
-    <meta name="description" content="Academic and personal site for Linxi Cindy Zeng.
-">
+    <meta name="description" content="[06/21/23] SMART-EXAM: Incorporating Participants’ Welfare into Sequential Multiple Assignment Randomized Trials">
     <meta name="keywords" content="cindy, labor economics, education, causal inference">
 
 
@@ -39,7 +38,7 @@
     <link rel="shortcut icon" href="/assets/img/android-chrome-512x512.png">
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="/blog/category/ci/">
+    <link rel="canonical" href="/projects/2023-06-21-Wang,Deliu,Narita,Chakraborty_2022/">
 
     <!-- Dark Mode -->
     
@@ -82,8 +81,8 @@
                 <a class="nav-link" href="/projects/">Projects</a>
               </li>
               <!-- Blog -->
-              <li class="nav-item active">
-                <a class="nav-link" href="/blog/">Blog<span class="sr-only">(current)</span></a>
+              <li class="nav-item ">
+                <a class="nav-link" href="/blog/">Blog</a>
               </li>
 
               <!-- Toogle theme mode -->
@@ -110,27 +109,68 @@
     <!-- Content -->
     <div class="container mt-5">
       
-        <div class="post">
+        <!-- _layouts/post.html -->
+
+<div class="post">
 
   <header class="post-header">
-    <h1 class="post-title"> <i class="fas fa-tag fa-sm"></i> CI </h1>
-    <p class="post-description"> an archive of posts in this category </p>
+    <h1 class="post-title">Wang,deliu,narita,chakraborty_2022</h1>
+    <p class="post-meta">June 21, 2023</p>
+    <p class="post-tags">
+      <a href="/blog/2023"> <i class="fas fa-calendar fa-sm"></i> 2023 </a>
+        ·  
+        <a href="/blog/tag/methodology">
+          <i class="fas fa-hashtag fa-sm"></i> methodology</a>  
+          
+        ·  
+        <a href="/blog/category/paper-of-the-day-potd">
+          <i class="fas fa-tag fa-sm"></i> Paper of the Day (POTD)</a>  
+          
+
+    </p>
   </header>
 
-  <article>
-    <div class="table-responsive">
-      <table class="table table-sm table-borderless">
-        
-        <tr>
-          <th scope="row">Nov 27, 2021</th>
-          <td>
-              <a class="post-link" href="/blog/2021/stumbling-upon-causal-inference/">Stumbling Upon Causal Inference</a>
-          </td>
-        </tr>
-      
-      </table>
+  <article class="post-content">
+    
+    <div id="markdown-content">
+      <p>See paper <a href="https://arxiv.org/abs/2210.16255" rel="external nofollow noopener" target="_blank">here</a>.</p>
+
+<h3 id="abbreviations">Abbreviations</h3>
+<ul>
+  <li>DTRs: Dynamic treatment regimes, sequences of decision rules that recommend treatments based on patients’ time-varying clinical conditions.</li>
+  <li>SMART: Sequential multiple assignment randomized trial, an experimental design that can provide high-quality evidence for constructing optimal DTRs.
+    <ul>
+      <li>Conventional SMART: Participants are randomized to available treatments at multiple stages with balanced randomization probabilities.</li>
+      <li>STAR*D: Sequenced Treatment Alternatives to Relieve Depression, 1st-gen SMART, randomizes participants within their preferred treatment categories (switch or augment) during the second and third randomization stages.</li>
+      <li>SMART-AR: SMART with adaptive randomization, using Q-learning to determine the randomization probabilities in favor of superior treatments based on the complete data trajectories from previous participants in the trial.</li>
+      <li>RA-SMART: response-adaptive SMART, inferior treatment at stage 1 will have a lower randomization probability at stage 2.</li>
+      <li>SMART-EXAM [this paper]: incorporates participants’ preferences and predicted treatment effects into the randomization procedure, has the potential to improve participants’ welfare in terms of both the participants’ (already enrolled and future patients) preferences and their final outcomes.</li>
+    </ul>
+  </li>
+  <li>SDM: Shared decision making, where healthcare providers and patients exchange information about patient’s disease-related characteristics and the benefits and side effects of each treatment, and finally achieve a consensus about which treatment should be prescribed.</li>
+  <li>RAR: Response-adaptive randomization, allow for potential adjustments of randomization probabilities, in accordance with accumulating information about the treatment performance.</li>
+  <li>ACTE: Average choice-specific treatment effects, the conditional treatment effect among those who would choose a particular treatment option.</li>
+  <li>EXAM: Experiment-as-Market, an extension of the RCT, allows for incorporating both participants’ preferences and treatment effects into the randomization procedure, while maintaining robust inferences comparable to RCTs. EXAM aims to strike a balance between making accurate inferences for future patients, and improving the welfare of enrolled participants through an imaginary centralized market (Narita, 2021).</li>
+</ul>
+
+<h3 id="a-generic-two-stage-smart">A generic two-stage SMART</h3>
+
+<ul>
+  <li>\(\left(\boldsymbol{O}_{1 i}, A_{1 i}, \boldsymbol{O}_{2 i}, A_{2 i}, Y_i\right)\): the observed trajectory for the \(i\)-th participant, iid.</li>
+  <li>\(\boldsymbol{O}_{t i}(t=1,2)\): the vector of covariates obtained prior to treatment at stage $t$.</li>
+  <li>\(R_i\) in \(\boldsymbol{O}_{2 i}\): intermediate response status, with $R_i=1 / 0$ for responder and non-responders, respectively.</li>
+  <li>\(A_{t i}\): treatment indicator of stage \(t\). \(A_{1 i} \in\{-1,1\}, A_{2 i} \in\{-1,1\}\) for non-responders, and \(A_{2 i}=0\) for responders.</li>
+  <li>\(Y_i\): final continuous outcome and WLOG, higher values of \(Y_i\) are preferred.</li>
+  <li>\(\boldsymbol{H}_{t i} \in \mathcal{H}_t\): history data of the \(i\)-th participant at stage \(t\), with \(\boldsymbol{H}_{1 i}=\boldsymbol{O}_{1 i}, \boldsymbol{H}_{2 i}=\left(\boldsymbol{O}_{1 i}, A_{1 i}, \boldsymbol{O}_{2 i}\right)\), where \(\mathcal{H}_t\) is the space of possible histories at stage \(t\).</li>
+  <li>\(\boldsymbol{d}_j=\left(d_{j, 1}, d_{j, 2}\right)\): j-th two-stage DTR, a vector of decision rules that map patient history data to one of the available treatments.</li>
+  <li>\(Y^{d_j}=R^{a_1} Y^{s\left(a_1, 0\right)}+\left(1-R^{a_1}\right) Y^{s\left(a_1, a_2\right)}\): PO under DTR \(\boldsymbol{d}_j=\left(a_1, a_2\right)\).</li>
+  <li>\(\boldsymbol{d}^*=\underset{d_j \in \mathcal{D}}{\arg \max } \mu_{d_j}\): optimal DTR, DTR with the highest expected outcome \(\mu_{d_j}\).</li>
+  <li>Inverse probability weighting (IPW) estimator for the expected outcome of DTR \(\boldsymbol{d}_j=\left(a_1, a_2\right)\): \(\hat{\mu}_{\boldsymbol{d}_j}=\frac{\sum_{i=1}^N W_i^{\boldsymbol{d}_j} Y_i}{\sum_{i=1}^N W_i^{\boldsymbol{d}_j}}\), where \(N\) is the total sample size, \(W_i^{d_j}=\frac{I\left(A_{1 i}=a_1\right)}{p_{1, a_1, i}}\left\{R_i+\frac{\left(1-R_i\right) I\left(A_{2 i}=a_2\right)}{p_{2, a_2, i}}\right\}\) is the weight of the \(i\)-th individual for DTR \(\boldsymbol{d}_j=\left(a_1, a_2\right), p_{1, a_1, i}=\operatorname{Pr}\left(A_{1 i}=a_1\right)\), and \(p_{2, a_2, i}=\operatorname{Pr}\left(A_{2 i}=a_2 \mid R_i=0\right)\).</li>
+</ul>
+
     </div>
   </article>
+
 
 </div>
 

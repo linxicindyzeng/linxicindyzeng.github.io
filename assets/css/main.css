@@ -27,7 +27,7 @@ body.sticky-bottom-footer { padding-bottom: 0; }
 /* Custom */
 article img { max-width: 100%; }
 
-iframe { border: none; width: 100%; aspect-ratio: 3/2; }
+iframe { border: none; width: 100%; background: white; aspect-ratio: 3/2; }
 
 /****************************************************************************** Publications *****************************************************************************/
 /*****************************************************************************

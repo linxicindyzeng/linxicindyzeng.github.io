@@ -2,16 +2,21 @@
 layout: post
 title: CCAS in China
 date: 2023-05-20
-description: "The History and Current Status of Centralized Choice and Assignment Systems in China"
+description: "The Adoption of Centralized Student Choice and Assignment Systems in China"
 img: assets/img/Comb1.png
 importance: 1
 category: Work
 
 ---
+
+<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/CCAS_China_230812.pdf" width="800" height="1000" type="application/pdf"></object>
+
+
+
 Advisor: [Christopher Neilson](https://christopherneilson.github.io/)
 
 
-## Graphs on the Evolution of CCAS in China
+<!-- ## Graphs on the Evolution of CCAS in China
 
 A Centralized Choice and Assignment System (CCAS) at an education level is defined by the simultaneous existence of educational institutions whose enrollment is at least partially determined by an external agency or platform, applicants who submit a list of their preferences to the agency, and the agency then giving the applicants a single offer, using certain criteria and allocation rules. Neilson (2019) documents the rise of CCAS in primary, secondary and tertiary education markets worldwide, and increasing research is being conducted on characteristics of existing CCAS (e.g., time of establishment, form of preference list, assignment mechanisms) and how they can be designed to facilitate education equity (see Akbarpour et al. (2022), Arteaga et al. (2022), Kapor, Neilson, & Zimmerman (2020)).
 
@@ -27,19 +32,23 @@ I then put together a panel data set of the 135 cities, 2003-2022, using the abo
 Number and percentage of city-level CCAS in primary, middle, and high school admission (2003-2022) among 129 cities whose 2020 population exceeds 1 million
 </div>
 
-![Number and percentage of city-level CCAS in primary, middle, and high school admission (2003-2022) among 129 cities whose 2020 population exceeds 1 million](/assets/img/Comb1.png)
+![Number and percentage of city-level CCAS in primary, middle, and high school admission (2003-2022) among 129 cities whose 2020 population exceeds 1 million](/assets/img/Comb1.png) -->
 
-Below is an interactive graph of the age of each 1m city's high school CCAS in 2020. I plan to develop this into a graph containing information from 2003 to 2022, and each year is a layer the user can select to display or hide. This would be a good visualization of the first movers (the cities with darker shades) and the dynamic spread over time. It will be easy given that I've already visualized 2020's data. I will only need a bit more time to learn addTiles().
+## Additional Graphs
+---
+### Descriptive
 
-It can already be seen that the "biggest" cities in China, Beijing, Shanghai, Shenzhen, and more generally, the south-east coastal cities were pioneers in implementing a CCAS on the high school level.
+Below is an interactive graph of the age of each city's high school CCAS in 2020. <!-- I plan to develop this into a graph containing information from 2003 to 2022, and each year is a layer the user can select to display or hide. This would be a good visualization of the first movers (the cities with darker shades) and the dynamic spread over time. It will be easy given that I've already visualized 2020's data. I will only need a bit more time to learn addTiles(). -->
+
+It can be seen that the "biggest" cities in China, Beijing, Shanghai, Shenzhen, and more generally, the south-east coastal cities were pioneers in implementing a CCAS at the high school level.
 
 <iframe src="/assets/img/Agein2020.html"></iframe>
 
-#### Flow Graphs
+<!-- #### Flow Graphs
 
 ![Number of New City-Level CCAS for High School Admission/Year](/assets/img/H_flow.png)
 
-![Number of New City-Level CCAS for Primary and Middle School Admission/Year](/assets/img/PM_flow.png)
+![Number of New City-Level CCAS for Primary and Middle School Admission/Year](/assets/img/PM_flow.png) -->
 
 ![High School CCAS Establishment Year](/assets/img/H.png)
 
@@ -47,11 +56,11 @@ It can already be seen that the "biggest" cities in China, Beijing, Shanghai, Sh
 
 ### Prediction Model
 
-The following is an extremely preliminary fit using a simple logit model on the data (sample size = 2495). Specification:
+The following is an extremely preliminary fit using a simple logit model on the data (2495 observations). Specification:
 
 $$ swi = \alpha + \gamma year + \beta X + e $$
 								
-where $$swi$$ is a switch year indicator that equals 1 if switch year ≤ characteristic year, 0 otherwise. $$X$$ are explanatory variables including population, GRP per capita, and goverment expenditure on education.
+where $$swi$$ is a switch year indicator that equals 1 if switch year $\le$ characteristic year, 0 otherwise. $$X$$ are explanatory variables including population, GRP per capita, and government expenditure on education.
 
 <table>
   <tr>
@@ -72,6 +81,8 @@ where $$swi$$ is a switch year indicator that equals 1 if switch year ≤ charac
   </tr>
 </table>
 
-Below is a regression table that shows the coefficients are extremely close to 0, which is expected due to the small sample size and lack of rigorous control variables. To perform this analysis, we look forward to exploiting a world-wide data set that is currently being collected and whose structure is similar to what I have demonstrated for China here.
+The regression table presents coefficients to be extremely close to 0, which is expected due to the small sample size and a lack of rigorous control variables. To construct a valid prediction model, we look forward to exploiting a <a href="https://www.ccas-project.org/">world-wide CCAS</a> data set that is currently being collected and whose structure would be similar to what I have demonstrated for China here.
 
-<iframe src="/assets/img/regression_table.html"></iframe>
+<!--
+<iframe src="/assets/img/regression_table.html"></iframe> -->
+

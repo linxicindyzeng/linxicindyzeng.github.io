@@ -1,0 +1,12 @@
+---
+layout: post
+title: Statistical Inference - A Bedtime Story
+date: 2022-12-08
+description: "A fantasy of data reduction, point estimation, hypothesis testing, and interval estimation."
+img: assets/img/glowstone.jpeg
+importance: 2
+category: Fun
+
+---
+
+<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/sta3020_notes.pdf" width="800" height="1000" type="application/pdf"></object>

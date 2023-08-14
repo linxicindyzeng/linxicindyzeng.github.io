@@ -5,7 +5,7 @@ permalink: /projects/
 description: Ongoing
 nav: true
 nav_order: 1
-display_categories: [Work, Paper of the Day (POTD), Fun]
+display_categories: [Work, Fun]
 horizontal: false
 ---
 

@@ -1,10 +1,11 @@
 ---
-layout: post
+# layout: post
 # title:  Stumbling upon Causal Inference
-date:   2021-11-27
-description:
-tags: CI
-categories: CI
+# date:   2021-11-27
+# description:
+# tags: CI
+# categories: CI
+published: false
 ---
 
 ### 1

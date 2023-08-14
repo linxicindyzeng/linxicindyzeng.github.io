@@ -1,12 +1,12 @@
 ---
-layout: post
-# title: Wang, Deliu, Narita, Chakraborty (2022) 
+# layout: post
+title: Wang, Deliu, Narita, Chakraborty (2022) 
 date: 2023-06-21
 description: "[06/21/23] SMART-EXAM: Incorporating Participants’ Welfare into Sequential Multiple Assignment Randomized Trials"
 img: assets/img/POTD/Deming2023F7.png
 importance: 2
 tags: methodology
-category: Paper of the Day (POTD)
+# category: Paper of the Day (POTD)
 ---
 See paper [here](https://arxiv.org/abs/2210.16255).
 

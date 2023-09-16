@@ -49,11 +49,15 @@ Check out [my portrait project with the Yale Daily News!](https://yaledailynews.
 </p>
 
 <p float="left">
-  <img src="/assets/img/photogallery/DSC_6554.JPG" width="253" />
-  <img src="/assets/img/photogallery/DSC_9646.JPG" width="253" /> 
-  <img src="/assets/img/photogallery/DSC_8739.JPG" width="253" />
+  <img src="/assets/img/photogallery/DSC_6554.JPG" width="381" />
+  <img src="/assets/img/photogallery/DSC_9646.JPG" width="381" /> 
   <!-- I'd guess 760 width in total? -->
 </p>
+
+<figure class="figure">
+  <img src="/assets/img/photogallery/DSC_8739.JPG" alt="{{ YDN }}">
+  <figcaption>{{ include.description }}</figcaption>
+</figure>
 
 <p float="left">
   <img src="/assets/img/photogallery/DSC_8974.JPG" width="381" />

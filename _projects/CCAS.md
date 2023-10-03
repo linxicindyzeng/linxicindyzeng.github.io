@@ -40,7 +40,7 @@ Number and percentage of city-level CCAS in primary, middle, and high school adm
 
 Below is an interactive graph of the age of each city's high school CCAS in 2020. <!-- I plan to develop this into a graph containing information from 2003 to 2022, and each year is a layer the user can select to display or hide. This would be a good visualization of the first movers (the cities with darker shades) and the dynamic spread over time. It will be easy given that I've already visualized 2020's data. I will only need a bit more time to learn addTiles(). -->
 
-It can be seen that the "biggest" cities in China, Beijing, Shanghai, Shenzhen, and more generally, the south-east coastal cities were pioneers in implementing a CCAS at the high school level.
+The biggest cities in China, Beijing, Shanghai, Shenzhen, and the south-east coastal cities were pioneers in implementing a CCAS for high school admissions.
 
 <iframe src="/assets/img/Agein2020.html"></iframe>
 
@@ -50,18 +50,21 @@ It can be seen that the "biggest" cities in China, Beijing, Shanghai, Shenzhen, 
 
 ![Number of New City-Level CCAS for Primary and Middle School Admission/Year](/assets/img/PM_flow.png) -->
 
+Below are maps showing the establishment years of CCAS for all investigated cities.
+
 ![High School CCAS Establishment Year](/assets/img/H.png)
 
 ![Primary and Middle School CCAS Establishment Year](/assets/img/PM.png)
 
 ### Prediction Model
 
-The following is an extremely preliminary fit using a simple logit model on the data (2495 observations). Specification:
+A simple logit prediction model:
 
 $$ swi = \alpha + \gamma year + \beta X + e $$
 								
-where $$swi$$ is a switch year indicator that equals 1 if switch year $\le$ characteristic year, 0 otherwise. $$X$$ are explanatory variables including population, GRP per capita, and government expenditure on education.
+where $$swi$$ is a switch year indicator that equals 1 if switch year $$\le$$ year in which a city characteristic was recoreded, 0 otherwise. $$X$$ are explanatory variables including population, GRP per capita, and government expenditure on education.
 
+{::comment}
 <table>
   <tr>
     <td>
@@ -80,8 +83,9 @@ where $$swi$$ is a switch year indicator that equals 1 if switch year $\le$ char
     </td>
   </tr>
 </table>
+{:/comment}
 
-The regression table presents coefficients to be extremely close to 0, which is expected due to the small sample size and a lack of rigorous control variables. To construct a valid prediction model, we look forward to exploiting a <a href="https://www.ccas-project.org/">world-wide CCAS</a> data set that is currently being collected and whose structure would be similar to what I have demonstrated for China here.
+Estimated coefficients are extremely close to 0, which is expected due to the small sample size (2495) and the limited availability of control variables. To construct a valid prediction model, we look forward to exploiting a <a href="https://www.ccas-project.org/">world-wide CCAS</a> data set that is currently being collected.
 
 <!--
 <iframe src="/assets/img/regression_table.html"></iframe> -->

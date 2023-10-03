@@ -90,10 +90,13 @@
               <li class="nav-item ">
                 <a class="nav-link" href="/photography/">Photography</a>
               </li>
-              <!-- Blog -->
+<!--
+              
+              <!-- Blog 
               <li class="nav-item ">
                 <a class="nav-link" href="/blog/">Blog</a>
               </li>
+                -->
 
               <!-- Toogle theme mode -->
               <li class="toggle-container">
@@ -167,7 +170,7 @@ Number and percentage of city-level CCAS in primary, middle, and high school adm
 
 <p>Below is an interactive graph of the age of each city’s high school CCAS in 2020. <!-- I plan to develop this into a graph containing information from 2003 to 2022, and each year is a layer the user can select to display or hide. This would be a good visualization of the first movers (the cities with darker shades) and the dynamic spread over time. It will be easy given that I've already visualized 2020's data. I will only need a bit more time to learn addTiles(). --></p>
 
-<p>It can be seen that the “biggest” cities in China, Beijing, Shanghai, Shenzhen, and more generally, the south-east coastal cities were pioneers in implementing a CCAS at the high school level.</p>
+<p>The biggest cities in China, Beijing, Shanghai, Shenzhen, and the south-east coastal cities were pioneers in implementing a CCAS for high school admissions.</p>
 
 <iframe src="/assets/img/Agein2020.html"></iframe>
 
@@ -177,19 +180,21 @@ Number and percentage of city-level CCAS in primary, middle, and high school adm
 
 ![Number of New City-Level CCAS for Primary and Middle School Admission/Year](/assets/img/PM_flow.png) -->
 
+<p>Below are maps showing the establishment years of CCAS for all investigated cities.</p>
+
 <p><img src="/assets/img/H.png" alt="High School CCAS Establishment Year"></p>
 
 <p><img src="/assets/img/PM.png" alt="Primary and Middle School CCAS Establishment Year"></p>
 
 <h3 id="prediction-model">Prediction Model</h3>
 
-<p>The following is an extremely preliminary fit using a simple logit model on the data (2495 observations). Specification:</p>
+<p>A simple logit prediction model:</p>
 
 \[swi = \alpha + \gamma year + \beta X + e\]
 
-<p>where \(swi\) is a switch year indicator that equals 1 if switch year $\le$ characteristic year, 0 otherwise. \(X\) are explanatory variables including population, GRP per capita, and government expenditure on education.</p>
+<p>where \(swi\) is a switch year indicator that equals 1 if switch year \(\le\) year in which a city characteristic was recoreded, 0 otherwise. \(X\) are explanatory variables including population, GRP per capita, and government expenditure on education.</p>
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <img src="/assets/img/plot_popu.png" alt="Plot 1">
@@ -206,9 +211,9 @@ Number and percentage of city-level CCAS in primary, middle, and high school adm
       <img src="/assets/img/plot_year.png" alt="Plot 4">
     </td>
   </tr>
-</table>
+</table> -->
 
-<p>The regression table presents coefficients to be extremely close to 0, which is expected due to the small sample size and a lack of rigorous control variables. To construct a valid prediction model, we look forward to exploiting a <a href="https://www.ccas-project.org/" rel="external nofollow noopener" target="_blank">world-wide CCAS</a> data set that is currently being collected and whose structure would be similar to what I have demonstrated for China here.</p>
+<p>Estimated coefficients are extremely close to 0, which is expected due to the small sample size (2495) and the limited availability of control variables. To construct a valid prediction model, we look forward to exploiting a <a href="https://www.ccas-project.org/" rel="external nofollow noopener" target="_blank">world-wide CCAS</a> data set that is currently being collected.</p>
 
 <!--
 <iframe src="/assets/img/regression_table.html"></iframe> -->

@@ -9,7 +9,7 @@ tags: methodology
 # category: Paper of the Day (POTD)
 ---
 See paper [here](https://arxiv.org/abs/2210.16255).
-#
+
 ### Abbreviations
 - DTRs: Dynamic treatment regimes, sequences of decision rules that recommend treatments based on patients’ time-varying clinical conditions.
 - SMART: Sequential multiple assignment randomized trial, an experimental design that can provide high-quality evidence for constructing optimal DTRs.

@@ -14,7 +14,7 @@ category: Work
 
 Advisor: [Christopher Neilson](https://christopherneilson.github.io/)
 
-#
+
 <!-- ## Graphs on the Evolution of CCAS in China
 
 A Centralized Choice and Assignment System (CCAS) at an education level is defined by the simultaneous existence of educational institutions whose enrollment is at least partially determined by an external agency or platform, applicants who submit a list of their preferences to the agency, and the agency then giving the applicants a single offer, using certain criteria and allocation rules. Neilson (2019) documents the rise of CCAS in primary, secondary and tertiary education markets worldwide, and increasing research is being conducted on characteristics of existing CCAS (e.g., time of establishment, form of preference list, assignment mechanisms) and how they can be designed to facilitate education equity (see Akbarpour et al. (2022), Arteaga et al. (2022), Kapor, Neilson, & Zimmerman (2020)).

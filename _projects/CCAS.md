@@ -9,7 +9,7 @@ category: Work
 
 ---
 
-<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/CCAS_China_230812.pdf" width="800" height="1000" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/CCAS_China.pdf" width="800" height="1000" type="application/pdf"></object>
 
 
 

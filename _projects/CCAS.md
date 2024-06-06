@@ -1,10 +1,10 @@
 ---
 # layout: post
-title: CCAS in China
-date: 2023-05-20
-description: "The adoption of centralized student choice and assignment systems in China"
-img: assets/img/Comb1.png
-importance: 1
+#title: CCAS in China
+#date: 2023-05-20
+#description: "The adoption of centralized student choice and assignment systems in China"
+#img: assets/img/Comb1.png
+#importance: 1
 # category: Work
 
 ---

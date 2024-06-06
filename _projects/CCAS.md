@@ -9,7 +9,7 @@
 
 ---
 
-<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/CCAS_China.pdf" width="800" height="1000" type="application/pdf"></object>
+#<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/CCAS_China.pdf" width="800" height="1000" type="application/pdf"></object>
 
 
 Advisor: [Christopher Neilson](https://christopherneilson.github.io/)

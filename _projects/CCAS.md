@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: CCAS in China
 date: 2023-05-20
 description: "The adoption of centralized student choice and assignment systems in China"

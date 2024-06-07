@@ -20,6 +20,6 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome!
 
-I am an aspiring economist interested in applied microeconomics, education, media, and health. I am currently an incoming predoc at SIEPR.
+I am an aspiring economist interested in applied microeconomics, education, media, and health. I am currently an incoming predoc at SIEPR
 
 Email: linxi.cindy.zeng@gmail.com

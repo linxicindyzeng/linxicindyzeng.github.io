@@ -11,92 +11,137 @@ category: Fun
 
 In 2023, I went to Yale for one semester. Best time of my life.
 
+
 It’s been a year since I left. Yale nostalgia still paralyzes me. Memories of intense joy and pain at Yale still make me cry. And I am still scared to talk about it. There is too much vulnerability.
+
 
 In May 2024, I graduated from The Chinese University of Hong Kong, Shenzhen (CUHKSZ) with minimal emotional turbulence. I wanted to write something on this supposedly special occasion. Writing has become ritualistic breathing for me after journaling for ten years and self-publishing almost 200 articles in college.
 
+
 But I couldn’t. Draft after draft disgusted me with indescribable insincerity until I realized, I was trying to avoid talking about Yale, while my story is simply incoherent without it.
 
-Speak, memory. At least, try.
-                                                                                                                                    O O O
 
+Speak, memory. At least, try.
+                                      
+                                                                                          O O O
+                                                                                           
 It wasn’t easy to be a visiting student. Visiting students before me told me it was impossible to fit in. Why would Yalies care about us? They are living their own best lives, why would they make room and time for someone from a less prestigious institution, who is probably “useless” to them in all aspects, and who is leaving again as swiftly as they had come? This was a fundamental insecurity in the visiting student’s mentality. We emerged at Yale on the margin, and most of us came and went like ghosts, like K in Kafka’s *Castle*.
+
 
 But Yale felt like home for me from the beginning. I moved into Pauli Murray H22-B. My sweet suitemate Sarosh welcomed me to “MYButt,” taught me to memorize wall paintings in the Murray underground maze to not get lost, and coerced me to ask Dean Rosas for a Murray lanyard because I “awwed” at hers. Elaine sat next to me in our first Philosophy of Dissent seminar, then we hit off an intense conversation about our childhood, Arendt, Chinese ancient poetry, party loyalty, and my Gaokao experience as if we were old friends instead of just meeting for the first time. Coinciding with the coldest windstorm days were my four math, stats, and econ finals from CUHKSZ postponed by COVID, three-hour closed-book exams set on midnights due to a time difference. I was extremely stressed in the Murray computer room when Eugene strolled in with a stack of books on mechanical engineering, introduced himself, asked for my name, and we started talking about our dreams. In our regular meals from then on, he would babble about robots, spaceships, and aeroponics with such excitement, and I would babble about the latest (humble) breakthroughs in my economic research with light gleaming in my eyes. For the first time in a decade, I felt like I could breathe, and that I didn’t need to hide who I was. For the first time in a decade, I felt like I belonged. I spent all my teenage years persuading myself, with ample help from poets and philosophers, that eternal solitude was what I desired. But in truth, I just never found my people, until Yale came along.
 
+
 Maybe this was why I must have struck some Yalies as bold, or even rude. I could have avoided giving that impression by staying in my introvert’s comfort zone, not reaching out, and not walking up to anyone, like I do in China. Each time I wanted to talk to a stranger, that insecurity kicked in, I heard my heart pound, and I took deep breaths just to summon up the courage – it wasn’t easy for me. But if you’ve craved something your whole life, when you find it, you’ll seize it too. I wish I could have done it with more grace, but the clock was ticking. I realized two truths at the same time, that I hated to intrude, and that I needed to intrude to be part of a place where every order was established without me.
+
 
 I cannot describe how grateful I am for those who welcomed me into their lives, who danced, walked, ate, cooked, studied, joked, philosophized, laughed, and cried with me – moments with you reminded me of what I truly live for, and you made me feel so seen for the first time. I am also grateful for those who made me feel embarrassed and inadequate, who were cold to me, and who ghosted me – you provoked in me new understandings of heterogeneous human personality and interaction, you helped me see my reflection from more angles, and nights of staring at the ceiling with watery eyes wondering what I had done wrong could only make me a better person than before.
 
+
 My Yale friends were always surprised when I said I had almost no friends at CUHKSZ. Over our goodbye coffee at Willoughby’s, Ella asked me if my standards were too high. “Someone passionate about something, someone who cares, someone who thinks, and feels… is it too much to ask for?” At Yale, maybe not. At CUHKSZ, yes. Passion and care are rare, and they are increasingly scared. They are scared of losing the GPA “involution” (内卷, for more on this Chinese buzzword, read this New Yorker article[[1]](notion://www.notion.so/cind-/49dc0c8664aa4e3da3df3b3b2bc25cb8#_ftn1)), which is not entirely their fault. Most are “as like each other as those dolls cut out of the same folded paper”[[2]](notion://www.notion.so/cind-/49dc0c8664aa4e3da3df3b3b2bc25cb8#_ftn2) from the traditional education machine. I felt barely any sense of community. I returned to CUHKSZ in the fall of 2023. When helping a freshman in our dorm kitchen with the microwave, I asked for her name, and she stared at me with such alarm as if I just asked for her credit card. Our dorm floor group chat was exclusively verbal abuse about unflushed toilets and forgotten pads in the shower, so I tried to organize floor lunches and nobody came.
+
 
 I had gotten used to feeling rejected by the world around me. In middle school, I designed a literary space and put up handwritten bookmarks of quotes on strings, only to find them torn down and lying in the trash the next day; to start the first school magazine I had to push against layers of bureaucracy and teachers telling me to focus on my studies despite my perfect grades. In high school, I initiated the first philosophy club and forums to encourage public discourse (I was a big fan of Harvard’s Michael Sandel then, and felt a lot of anger toward social phenomena I saw). Growing up, almost everything I believed to be important and therefore kept doing was deemed unimportant. Rejection wasn’t new for me, but in the fall of 2023, having just returned from Yale where I felt so much love, being back in that familiar coldness my mental health quickly deteriorated to the point where I needed external help. This was new for me, and I will elaborate later.
 
+
 Now, maybe it is less surprising when I confess: the first time I laid eyes on the ten student publications outside of the Ben Franklin dining hall, I started to cry. Yale has over 40 active student publications, yet the best student publication in arguably the best university in China had to die[[3]](notion://www.notion.so/cind-/49dc0c8664aa4e3da3df3b3b2bc25cb8#_ftn3).
+
 
 Everything seemed to be so easy at Yale. Making friends was easy, being nice was easy, publishing your writing in a student magazine was easy, asking for late submission was easy (I had never heard of this concept before Yale), traveling around Europe using Yale money was easy, sleeping with your boyfriend was easy (CUHKSZ has gender-separate four-person dorms; you could get reported by your peers if you bring a guest of different sex to your floor), getting As was easy (a CUHKSZer usually takes six classes per semester; the A- rate is around 30 percent and can get to 0 percent), and yes, even finding research opportunities with some of the world’s best economists was easy. At CUHKSZ, there is no Tobin Undergraduate RA program and no Herb-Scarf Summer Research program, the RA market is opaque and decentralized, few names in the actual faculty are internationally renowned (yet), you need a lot of luck or leveraging personal relationships with the professor, and you shouldn’t expect to get paid. Systematic support for students interested in research is weak. I remember walking by the Grove St Cemetery after talking to an econ professor at 28 Hillhouse who simply gave me a trial task, and thinking, if anyone asked me how I would define a good institution now, I would answer, “an institution that gets to the point quickly.”
 
+
 Soon enough, I was writing, doing photography, and illustrating for the YDN, working as three econ RAs, and taking four classes, but hanging out with friends remained my top priority throughout. When I went through the entire graduation process (last meals, last drinks, last ceremonies, last chance dance, last tears, last packing) with my closest YC ’23 friends, they said I did squeeze four years of Yale experience into four months.
 
+
 But I also remember, being stunned by all of Yale’s radiant beauty, I never once felt that the world was unfair because I only had one semester but they had eight. I only felt increasingly grateful that I had one, and the world was unfair because so many deserving students never made it to Yale, and so many more would-have-been-deserving students were snipped in the bud by poverty, disease, and institutional flaws before they had the chance to bloom. As amazing as my Yale friends were, and as aware of the Yale bubble as they tried to be, some of their mindless words made me think perhaps the biggest shortcoming of going to Yale is that they don’t know what it feels like to *not* go to Yale. It’s hard to feel the full weight of how privileged one is with what one already has – we often forget how privileged we all are to be able to breathe.
-                                                                                                                                    O O O
+
+                                                                                          O O O
+
 
 At Yale, I saw ideals happen in reality, and I saw my idealism revive.
 
+
 I saw friendships where an individual invests significant effort into understanding another who may be counterintuitive and working on virtues just to become a better friend. It had been a while since I had seen that in life, and I thought the art had already been lost somewhere between Aristotle and now. Justin told me in May the best course he ever took at Yale was a Hopper course on emotions and relationships. In August when I visited, he randomly pulled out that textbook and told me he was reviewing it again to keep it fresh. It was adorable and magnificent at the same time. Friends like Justin revived my old endeavor of systematically studying and exercising how to be a good friend, an endeavor that had been somewhat sidetracked due to a lack of friends to practice on, which I guess Yale ended.
+
 
 I saw aspects of ideal scholarship. For the first time, I met professors who made me go, “That’s who I want to be.” I’ve always wanted to make the world a better place through research. But for 2.5 years, my econ professors in college hammered into me a sense of shame for being “too idealistic.” They did not like the “making the world a better place” part. Gradually it turned into a deep self-doubt, where I constantly worried I had the wrong reason for wanting to be in academia. But at Yale, I got to know professors who do top-tier research, who care deeply about people, who try their best to make the world a better place, and who are not afraid to say so. In the long term, maybe idealism will harm me as I have been warned. But right now, I’m sorry, I feel burning and alive doing my research like never before.
 
+
 I saw the humanitarian spirit at a density I didn’t know existed in the 21st century. I saw what seemed to me to be organizational miracles. I saw such a diverse spectrum of life stories and thought profiles. I felt like everything I wanted to exist but thought didn’t, did exist. And I saw Yale’s idealism, irreversibly, fatally, affecting me.
 
-                                                                                                                                    O O O
+                                                                                          O O O
+
 
 Of course, Yale wasn’t all roses. It gave me one of the biggest trials of my life.
 
+
 I had known for a long time I wanted a PhD in economics, so I was doing three econ RAs during my semester at Yale. For my main PI, I worked 20h+ a week or 40h+ during spring break. When I knew I could work with him over the summer, I was exhilarated. It was what I came to Yale for in the most utilitarian sense.
+
 
 In May, I was notified by an email that it wasn’t happening due to a sudden change of events, and it wasn’t because of me. I was at Marx writing two final papers that were due in two days. I slid my phone across the table to my friend, who read the email, frowned, looked at me worriedly, and gestured, “Do you want to go outside?”
 
+
 And boy I remember how hard I cried right outside of YSB. I remember how the sun in all its glory lit up the verdure on Science Hill, and I, amidst the goldenness of everything else, felt like I could die. I felt all my efforts had been wasted. It was too late to find another summer RA. I could no longer stay in the US for the summer. And I had failed.
+
 
 These thoughts weren’t rational. Most turned out to be false. But in that moment, they were all real.
 
+
 I don’t remember for how long I cried. At some point, I was still crying but I started typing down, “Okay, I need to make a plan. First I am going to the econ building. Then I need to ask student employment and OISS what it means for my visa and what I should do. I want advice from my econ PhD friends. I should reach out to a new round of econ professors to ask about summer job availability…. And I should act now.” So I did. In the end, I managed to stay in New Haven, with no new job.
+
 
 My PI tried to comfort me by saying we still had time between when my finals would end and when our old hire contract would end, which was about ten days. An econ paper takes years to publish, and ten days sounded like a joke.
 
+
 After the laugh, though, I thought, “You know what? I’m going to show you what I can do in ten days.”
+
 
 By then I had some idea of what we were originally going to work on over the summer. I made it a goal to finish that in ten days, and got to work. I went to bed at four and woke up at seven, and I only left Bass to eat and to sleep. Bass was empty. Then Bass had grey-haired alumni visitors, two of whom asked me nostalgically where “Cross Campus Library” was, and after a round of conversation, they realized it was the library they were in. I asked them for a piece of advice. They answered thoughtfully, “It’s all going to work out.” And I chuckled to myself, “Doesn’t look like it.” Then Bass was empty again.
 
+
 New Haven after commencement was a den of melancholy. It was silent and foreign. The Yale architecture I used to marvel at turned into empty skeletons holding ghosts of my friends. Over my goodbye dinner with Jessica in front of Sterling, who kindly offered me half of her pizza from Costa, I pointed to the trees on XC and told her how it struck me that even the leaves had taken on a deeper, richer green, and how I hated that change. Jessica tried to comfort me with an alternative metaphor, that old friends would be like growth rings in those trees, they could grow from the inner to the outer circles but they always remain within us, and with it the possibility to cross paths again. It was an era of feeling abandoned, “abandoned” by my professor, “abandoned” by my friends, and “abandoned” by my family (I chose not to tell my family too much because I didn’t want them to worry, they were in China and could do little to help, and I didn’t have much time to call). I felt alone in New Haven. I felt alone in the world.
+
 
 This was my mental state during those ten days. I forced my emotions down and gave it all. But I didn’t even know if my PI could eventually take a look at my work.
 
+
 I managed to arrange one last meeting with him at the beginning of June. In those ten days, I retrieved, assembled, and cleaned a new panel dataset, tested preliminary models, drew user-interactive graphs, and built a website in two days. I presented the results and visualizations of four months of work to him using that website. It was my first time trying any of these tasks. And he was impressed.
+
 
 When I walked back down Prospect St, I thought I understood it more. I felt like he had given me my hunger games. And I had survived. In those ten days, I felt the thrill of coding for the first time, and I saw my potential in a new light. In a sense, that extreme experience transformed me from needing to be someone’s RA to an independent researcher. I started to believe I could do good research on my own. And whatever I did not know, I was ready to learn.
 
+
 When Kristen, my friend for more than a decade, drove down to visit me in New Haven later in the summer, I told her this story over a lazy comfy meal at Sherkaan. When I finished, she was wiping tears. It was my first time seeing her cry. “This is the story of a hero, Cindy.” I was surprised and flattered. “But… I was just being me. I didn’t know how to do it any other way.”
 
+
 I don’t think I would have gotten into Stanford without my PI’s recommendation letter a few months later. I don’t know what he wrote in there. Guess I never will.
-                                                                                                                                    O O O
+
+
+O O O
+
 
 I was transformed at Yale in many ways. One of the most important was how my dominant way of existence was transformed from a thinker to a doer. And in doing I found strength thinking alone could not give. Since my philosophical awakening at 13, I had been a luftmensch reaching for the ground. It was at Yale, the kingdom of clouds, that my feet finally touched the ground. Maybe it was because of the tedious groundwork I did as an RA, or because I had amazing friends like Siu Yuat and Julia who encouraged me and helped pull me down. My emotional fluctuations became more tempered, and even at my lowest, I was able to keep going. I started to like myself as a person, in a way I never truly did before.
 
+
 I came back to CUHKSZ for my senior year. Those ten days turned out to be only the epitome of the challenge and stress I would face in the fall of 2023 when I applied for predocs. I was in immense emotional pain and undergoing the sudden shift from being somewhere full of friends to being somewhere with none. At some point, I stopped feeling everything wonderful that was still there a month before; I stopped feeling passion for research, I stopped seeing why I was applying for anything at all, and I stopped seeing why I was still alive. I was holding onto memories at Yale to get out of bed every day. My mom came to visit me at my university for the first time and took me to the hospital, where the doctor thought I had adjustment disorders. Then Mom forced me to drop Real Analysis, which turned out to be the best decision that semester. It was a very hard decision for me because I never back off. But that experience taught me bravery isn’t always about charging forward and wanting more. Mom was my strongest support, wisest advisor, and best friend throughout that very dark time.
+
 
 In the spring of 2024, my last semester of college, I made it my top priority to learn to love myself, and through that more stably emanate positive energy to those around me. After what happened the previous semester, I knew more than ever how important community and pursuing my passions were for me. So I connected with community builders, artists, and charities far from my university in Shenzhen and found friendships in new circles. I explored areas of the city with my camera, Phil. I started taking MMA classes and picked up Latin dancing again. The commute was at least an hour each way, but on the way there I would listen to my audiobooks, and on the way back I would be so happy I was eager to make the world a better place right then and there on the midnight bus. I also reinstated my morning routine of cardio, MMA practice, yoga, and meditation, and found a deep, constant inner peace. I trained myself to practice gratitude every day. I even made my peace with CUHKSZ, though it didn’t give me a community, it gave me shelter and food, and the opportunity to go to Yale. Oh yes, and that Unendliche Wohlgemutbeit. “True humor is inconceivable without an infinite good mood” (Hegel). For all my life I have wanted to be a wise person, but now I want to be a humorous one more.
 
+
 One morning, after my routine, I walked out of the gym to a rainstorm. So I took off my shoes, walked into the rain, let loose my ponytail, and – of course – danced my way back.
+
 
 One afternoon, I texted my friend, “I think my Peloponnesian War has ended. It means nothing to the world, but it means the world to me.” For all my life my rational and emotional sides had been at war, and I had been in pain. But when I listened to *Everything Matters* (AURORA/Pomme) and cried without beating myself up again for being sensitive, it was a good representation of my mental state for months leading up to that moment and a good presage of more inner growth to come. I was worried the transformation that started at Yale would be dependent on me being at Yale. But not anymore. Yale will always be my Ithaca. But Odysseus is always both returning and leaving home.
 
+
 I still want to be everything I want to be. I still want to connect people and fields. I still want to make the world a better place.
+
 
 The last time I called Julia and mentioned when I was flying back, she pulled up her calendar and created an event, though she would be on the East Coast and I on the West. I laughed at the apparent irrelevance of that event in her life, and she got indignant and protested, “But it’s the day you’re coming back!”
 
+
 Me? I just can’t wait to see my friends again.
+
 
 
 ---

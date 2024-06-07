@@ -20,6 +20,6 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome!
 
-I am an aspiring economist interested in applied microeconomics, health, media, and education. I am currently an undergraduate at The Chinese University of Hong Kong, Shenzhen and Yale University.
+I am an aspiring economist interested in applied microeconomics, education, media, and health. I am currently an incoming predoc at SIEPR.
 
-Email: linxi.zeng@yale.edu / linxizeng@link.cuhk.edu.cn
+Email: linxi.cindy.zeng@gmail.com

@@ -144,7 +144,6 @@ Me? I just can’t wait to see my friends again.
 
 
 
-
 ---
 
 [[1]](notion://www.notion.so/cind-/49dc0c8664aa4e3da3df3b3b2bc25cb8#_ftnref1) Yi-Ling Liu, “China’s ‘Involuted’ Generation | The New Yorker,” The New Yorker, May 14, 2021, https://www.newyorker.com/culture/cultural-comment/chinas-involuted-generation.

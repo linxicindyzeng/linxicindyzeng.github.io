@@ -2,7 +2,7 @@
 layout: post
 title: Yale and Me - Reflections of an Outsider, Intruder, and Homecomer 
 date: 2024-06-06
-description: ""
+description: "An essay."
 img: assets/img/yale_me.jpg
 importance: 2
 tags: blog

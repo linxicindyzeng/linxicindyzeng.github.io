@@ -1,12 +1,12 @@
 ---
-layout: post
+# layout: post
 title: Yale and Me - Reflections of an Outsider, Intruder, and Homecomer 
 date: 2024-06-06
 description: "An essay."
 img: assets/img/yale_me.jpg
 importance: 2
 tags: blog
-category: Fun
+# category: Fun
 ---
 
 In 2023, I went to Yale for one semester. Best time of my life.

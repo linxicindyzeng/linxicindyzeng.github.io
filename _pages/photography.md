@@ -17,7 +17,7 @@ Check out [my portrait project with the Yale Daily News!](https://yaledailynews.
 And [my photo-essay on the Yale Politic](https://issuu.com/theyalepolitic/docs/issue_ii/38?fbclid=PAZXh0bgNhZW0CMTEAAaaFGTacWv01SPmXZBw7ID895_iHeRYuvfqSR9KRy8XnEO4wWrDFSsaiaLo_aem_eFZQcbzvmFg6u6_FQZzGiQ)
 
 <a href="https://issuu.com/theyalepolitic/docs/issue_ii/38?fbclid=PAZXh0bgNhZW0CMTEAAaaFGTacWv01SPmXZBw7ID895_iHeRYuvfqSR9KRy8XnEO4wWrDFSsaiaLo_aem_eFZQcbzvmFg6u6_FQZzGiQ"><img src="/assets/img/photogallery/ShenzhenRewind.png"></a>
-
+ 
 ---
 ---
 

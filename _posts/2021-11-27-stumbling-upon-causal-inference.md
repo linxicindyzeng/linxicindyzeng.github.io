@@ -2,15 +2,15 @@
 layout: post
 title:  Stumbling upon Causal Inference
 date:   2021-11-27
-description:
-tags: CI
+description: "Why?"
+tags: blog
 categories: CI
-published: false
+#published: false
 ---
 
 ### 1
 
-An ordinary day in March, I was chatting with professor Liyu Dou about life when a book on his shelf caught my eye. 
+An ordinary day in March 2021, I was chatting with professor Liyu Dou about life when a book on his shelf caught my eye. 
 
 Thus, the story began with *The Book of Why* (TBW) and a genuine curiosity about... why. The read was a disappointment. The book does not examine the questions whose answers I set out looking for (Do true causal relationships exist, or are they mere illusions? How can we define causal relationships? ...) But the unexpected delight was being introduced to Pearl’s school of causal inference, its intuitions, its core concepts (do-calculus, causal diagrams (DAG), Bayesian networks and belief propagation, deconfounding, etc.), and its divergence from traditional econometrics. TBW fired back at me new questions that were more tractable and no less intriguing, e.g., how to teach AI to understand causal relationships (which concerns the dissection of causal phenomena and how they are processed in the human brain)? What are the limitations of representing causal relationships with DAGs? Why isn’t Pearl’s school mainstream?
 

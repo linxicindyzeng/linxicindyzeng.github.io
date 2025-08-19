@@ -23,7 +23,7 @@ And [my photo-essay on the Yale Politic. ](https://issuu.com/theyalepolitic/docs
 
 <p float="left">
   <img src="/assets/img/photogallery/DSC_0174.JPG" width="253" />
-  <img src="/assets/img/photogallery/DSC_0187.JPG" width="253" /> 
+  <img src="/assets/img/photogallery/DSC_0989.JPG" width="253" /> 
   <img src="/assets/img/photogallery/DSC_0191.JPG" width="253" />
   <!-- I'd guess 760 width in total? -->
 </p>
@@ -47,8 +47,8 @@ And [my photo-essay on the Yale Politic. ](https://issuu.com/theyalepolitic/docs
 </figure>
 
 <p float="left">
-  <img src="/assets/img/photogallery/DSC_6163.JPG" width="381" />
-  <img src="/assets/img/photogallery/DSC_6471.JPG" width="381" /> 
+  <img src="/assets/img/photogallery/1.JPG" width="381" />
+  <img src="/assets/img/photogallery/DSC_0284.JPG" width="381" /> 
   <!-- I'd guess 760 width in total? -->
 </p>
 
@@ -59,7 +59,7 @@ And [my photo-essay on the Yale Politic. ](https://issuu.com/theyalepolitic/docs
 </p>
 
 <figure class="figure">
-  <img src="/assets/img/photogallery/DSC_8739.JPG" alt="{{ YDN }}">
+  <img src="/assets/img/photogallery/DSC_8739.JPG" alt="{{ Yale Harkness }}">
   <figcaption>{{ include.description }}</figcaption>
 </figure>
 
@@ -70,11 +70,54 @@ And [my photo-essay on the Yale Politic. ](https://issuu.com/theyalepolitic/docs
 </p>
 
 <figure class="figure">
-  <img src="/assets/img/photogallery/DSC_9926.JPG" alt="{{ YDN }}">
+  <img src="/assets/img/photogallery/DSC_9926.JPG" alt="{{ Child and Sea }}">
   <figcaption>{{ include.description }}</figcaption>
 </figure>
 
 <figure class="figure">
-  <img src="/assets/img/photogallery/DSC_9455.JPG" alt="{{ YDN }}">
+  <img src="/assets/img/photogallery/DSC_9455.JPG" alt="{{ Ugolino and His Sons }}">
   <figcaption>{{ include.description }}</figcaption>
 </figure>
+
+
+<p float="left">
+  <img src="/assets/img/photogallery/DSC_5514.JPG" width="381" />
+  <img src="/assets/img/photogallery/DSC_3504.JPG" width="381" /> 
+  <!-- I'd guess 760 width in total? -->
+</p>
+
+<p float="left">
+  <img src="/assets/img/photogallery/DSC_6003.JPG" width="381" />
+  <img src="/assets/img/photogallery/DSC_6759.JPG" width="381" /> 
+  <!-- I'd guess 760 width in total? -->
+</p>
+
+<p float="left">
+  <img src="/assets/img/photogallery/DSC_3575.JPG" width="381" />
+  <img src="/assets/img/photogallery/DSC_6630.JPG" width="381" /> 
+  <!-- I'd guess 760 width in total? -->
+</p>
+
+<p float="left">
+  <img src="/assets/img/photogallery/DSC_9999.JPG" width="253" />
+  <img src="/assets/img/photogallery/DSC_1115.JPG" width="253" /> 
+  <img src="/assets/img/photogallery/DSC_0889.JPG" width="253" />
+  <!-- I'd guess 760 width in total? -->
+</p>
+
+<figure class="figure">
+  <img src="/assets/img/photogallery/DSC_1277.JPG" alt="{{ Tree diagonal }}">
+  <figcaption>{{ include.description }}</figcaption>
+</figure>
+
+<p float="left">
+  <img src="/assets/img/photogallery/DSC_1743.JPG" width="381" />
+  <img src="/assets/img/photogallery/DSC_0536.JPG" width="381" /> 
+  <!-- I'd guess 760 width in total? -->
+</p>
+
+<p float="left">
+  <img src="/assets/img/photogallery/DSC_1526.JPG" width="381" />
+  <img src="/assets/img/photogallery/DSC_9084.JPG" width="381" /> 
+  <!-- I'd guess 760 width in total? -->
+</p>

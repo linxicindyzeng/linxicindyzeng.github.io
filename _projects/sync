@@ -1,0 +1,15 @@
+---
+layout: post
+title: Synchronized School Admissions and Housing Price
+date: 2024-09-14
+description: "Housing Price and Synchronized Admissions between Public and Private Primary Schools: Evidence from Changsha, China"
+img: assets/img/sync.png
+importance: 3
+category: Work
+
+---
+
+Very preliminary draft, currently being updated.
+
+
+<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/Thesis_Sync_Admission.pdf" width="800" height="1000" type="application/pdf"></object>

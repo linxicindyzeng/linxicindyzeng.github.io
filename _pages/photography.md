@@ -100,7 +100,7 @@ And [my photo-essay on the Yale Politic. ](https://issuu.com/theyalepolitic/docs
 
 <p float="left">
   <img src="/assets/img/photogallery/DSC_9999.JPG" width="253" />
-  <img src="/assets/img/photogallery/DSC_1115.JPG" width="253" /> 
+  <img src="/assets/img/photogallery/DSC_9881.JPG" width="253" /> 
   <img src="/assets/img/photogallery/DSC_0889.JPG" width="253" />
   <!-- I'd guess 760 width in total? -->
 </p>

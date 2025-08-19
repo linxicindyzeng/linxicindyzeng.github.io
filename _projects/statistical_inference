@@ -9,4 +9,4 @@ category: Fun
 
 ---
 
-<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/sta3020_notes.pdf" width="800" height="1000" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/sta3020_fairytale.pdf" width="800" height="1000" type="application/pdf"></object>

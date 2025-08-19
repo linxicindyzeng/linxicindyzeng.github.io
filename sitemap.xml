@@ -13,6 +13,10 @@
 <lastmod>2016-01-15T11:59:00+00:00</lastmod>
 </url>
 <url>
+<loc>/blog/2021/stumbling-upon-causal-inference/</loc>
+<lastmod>2021-11-27T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>/blog/2024/yale_and_me/</loc>
 <lastmod>2024-06-06T00:00:00+00:00</lastmod>
 </url>
@@ -51,6 +55,12 @@
 <loc>/blog/tag/blog/</loc>
 </url>
 <url>
+<loc>/blog/category/ci/</loc>
+</url>
+<url>
+<loc>/blog/2021/</loc>
+</url>
+<url>
 <loc>/blog/2024/</loc>
 </url>
 <url>
@@ -70,6 +80,6 @@
 </url>
 <url>
 <loc>/googlece4388388e4295b3.html</loc>
-<lastmod>2025-08-19T18:27:16+00:00</lastmod>
+<lastmod>2025-08-19T18:38:40+00:00</lastmod>
 </url>
 </urlset>

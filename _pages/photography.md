@@ -59,6 +59,11 @@ And [my photo-essay on the Yale Politic. ](https://issuu.com/theyalepolitic/docs
 </p>
 
 <figure class="figure">
+  <img src="/assets/img/photogallery/DSC_7084.JPG" alt="{{ Luxembourg-Guangzhou }}">
+  <figcaption>{{ include.description }}</figcaption>
+</figure>
+
+<figure class="figure">
   <img src="/assets/img/photogallery/DSC_8739.JPG" alt="{{ Yale Harkness }}">
   <figcaption>{{ include.description }}</figcaption>
 </figure>
@@ -121,3 +126,8 @@ And [my photo-essay on the Yale Politic. ](https://issuu.com/theyalepolitic/docs
   <img src="/assets/img/photogallery/DSC_9084.JPG" width="381" /> 
   <!-- I'd guess 760 width in total? -->
 </p>
+
+<figure class="figure">
+  <img src="/assets/img/photogallery/DSC_4872.JPG" alt="{{ Arles }}">
+  <figcaption>{{ include.description }}</figcaption>
+</figure>

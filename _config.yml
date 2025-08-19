@@ -126,7 +126,7 @@ blog_description: Thoughts on random topics
 permalink: /blog/:year/:title/
 
 # Pagination
-pagination: true
+pagination:
   enabled: true
 
 related_blog_posts:

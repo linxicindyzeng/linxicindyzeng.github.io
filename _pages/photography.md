@@ -14,9 +14,9 @@ Check out [my portrait project with the Yale Daily News!](https://yaledailynews.
 
 <a href="https://yaledailynews.com/blog/2023/04/23/through-the-lens-instatistically-significant/"><img src="/assets/img/photogallery/YDNPortrait.png"></a>
 
-And [my photo-essay on the Yale Politic. ](https://issuu.com/theyalepolitic/docs/issue_ii/38?fbclid=PAZXh0bgNhZW0CMTEAAaaFGTacWv01SPmXZBw7ID895_iHeRYuvfqSR9KRy8XnEO4wWrDFSsaiaLo_aem_eFZQcbzvmFg6u6_FQZzGiQ)
+And [my photo-essay on the Yale Politic. ](https://thepolitic.org/author/linxicindyzeng/)
 
-<a href="https://issuu.com/theyalepolitic/docs/issue_ii/38?fbclid=PAZXh0bgNhZW0CMTEAAaaFGTacWv01SPmXZBw7ID895_iHeRYuvfqSR9KRy8XnEO4wWrDFSsaiaLo_aem_eFZQcbzvmFg6u6_FQZzGiQ"><img src="/assets/img/photogallery/ShenzhenRewind.png"></a>
+<a href="https://thepolitic.org/author/linxicindyzeng/"><img src="/assets/img/photogallery/ShenzhenRewind.png"></a>
  
 ---
 ---

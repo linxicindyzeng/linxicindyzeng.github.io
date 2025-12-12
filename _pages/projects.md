@@ -14,7 +14,9 @@ horizontal: false
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
-  <h2 class="year">{{ category }}</h2>
+  <h2 class="year" style="text-align:left; color: var(--global-text-color); border-top: 1px solid var(--global-text-color); padding-top: 1rem; margin-top: 2rem; margin-bottom: 0.75rem;">
+    {{ category }}
+  </h2>
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "date" | reverse %}
   

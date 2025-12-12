@@ -1,15 +1,14 @@
 ---
 layout: post
-title: Synchronized School Admissions and Housing Price
-date: 2024-09-14
-description: "Housing Price and Synchronized Admissions between Public and Private Primary Schools: Evidence from Changsha, China"
+title: Distributional Consequences of China's Randomized Private School Admission in Spatial Equilibrium
+date: 2025-10-30
+description: "Abstract: In 2019, China mandated that oversubscribed private schools admit students through randomized lotteries conducted concurrently with public-school assignments, ending decades of preemptive “cream-skimming” in private admissions. Although the reform targeted greater education equity, the linkage between public school assignment and residential address raises the possibility that housing market responses could offset expected equity gains. I evaluate the policy’s distributional consequences using a quantitative urban model with general equilibrium pricing and endogenous residential sorting. The model predicts that the policy draws higher-socioeconomic-status households into districts with better public schools, steepening rent gradients and reconnecting access to quality schools with ability to pay. The resulting price pressures and sorting amplify inequality, particularly where housing supply is inelastic. I estimate the structural model using a panel of over 100 major cities, including housing prices and attributes, school quality and capacity, and middle school entrance exam and application data. With second-hand housing transaction data, I implement a difference-in-discontinuities design to provide reduced-form evidence of rent gradient changes."
 img: assets/img/sync.png
 importance: 3
-category: Work
+category: Work in Progress
 
 ---
 
-Very preliminary draft, currently being updated.
+Currently being updated.
 
-
-<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/Thesis_Sync_Admission.pdf" width="800" height="1000" type="application/pdf"></object>
+<!-- <object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/Thesis_Sync_Admission.pdf" width="800" height="1000" type="application/pdf"></object> -->

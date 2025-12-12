@@ -2,7 +2,7 @@
 layout: page
 title: Photography
 permalink: /photography/
-description: Record, discover, and create.
+description: "'May I, composed like them / Of Eros and of dust, / Beleaguered by the same / Negation and despair, / Show an affirming flame.' -W. H. Auden" 
 nav: true
 nav_order: 4
 # display_categories: [Work, Fun]

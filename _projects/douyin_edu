@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Short Video Consumption and Teenager Ideology
+title: The Effect of Short Videos Consumption on Adolescents' Ideology
 date: 2024-12-03
-description: "The Effect of Short Videos on the Education Outcomes and the Ideology of County-Level Secondary School Students: Evidence from Huitong, China"
+description: "Abstract: I study adolescents’ digital media consumption and ideological beliefs using an original survey of 2,261 secondary-school students in a county in Hunan, China. Short-video viewing proves to be a dominant use of smartphones in this population. I examine how platform choice, viewing time, and content categories correlate with students’ ideological positions--including political, social, and life-orientation dimensions--and the degree of opinion polarization. Results show correlations between short video exposure and opinion polarization, and point to the platform-embedded online friends networks as an understudied influence of adolescent beliefs. I then implement a randomized experiment to identify the causal effects of short-video exposure on adolescents’ attitudes and polarization."
 img: assets/img/douyin_survey.png
 importance: 2
-category: Work
+category: Work in Progress
 
 ---
 
-Very preliminary draft, currently being updated.
+Currently being updated.
 
-<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/Douyin_Education.pdf" width="800" height="1000" type="application/pdf"></object>
+#<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/Douyin_Education.pdf" width="800" height="1000" type="application/pdf"></object>

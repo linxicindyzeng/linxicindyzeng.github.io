@@ -1,17 +1,14 @@
 ---
 layout: post
-title: CCAS in China
-date: 2023-05-20
-description: "The adoption of centralized student choice and assignment systems in China"
+title: Centralized Student Choice and Assignment Systems in China's Mandatory Education
+date: 2025-12-01
+description: "Abstract: The adoption of Centralized Student Choice and Assignment Systems (CCAS) has been on the rise worldwide. From 2003 to 2022, major Chinese cities gradually established CCAS in primary and secondary school admissions. I assemble the first dataset that documents the presence and attributes of CCAS for all 134 cities whose populations exceeded one million each. I provide descriptive evidence on the adoption patterns and heterogeneity in implementation details. Then I estimate a diffusion model to investigate the determinants of CCAS adoption. Results suggest that city population and male average education correlate with earlier adoption, with caveats of small sample size and the difficulty in identifying peer effects. The wide coverage and heterogeneity of CCAS warrant more research on their optimal local forms and welfare implications."
 img: assets/img/Comb1.png
 importance: 1
-category: Work
+category: Working Paper
 ---
 
-<object data="{{ site.url }}{{ site.baseurl }}/assets/pdf/CCAS_China.pdf" width="800" height="1000" type="application/pdf"></object>
-
-
-Part of the [Worldwide CCAS Project](https://www.ccas-project.org/).
+Please find [this working paper on SSRN](http://dx.doi.org/10.2139/ssrn.5769142). For more information on the CCAS dataset, please visit the [Worldwide CCAS Project - China](https://ccas-project.org/profile/country/primary/CHN).
 
 <!-- ## Graphs on the Evolution of CCAS in China
 
@@ -47,8 +44,6 @@ The biggest cities in China, Beijing, Shanghai, Shenzhen, and the south-east coa
 
 ![Number of New City-Level CCAS for Primary and Middle School Admission/Year](/assets/img/PM_flow.png) -->
 
-Below are maps showing the establishment years of CCAS for all investigated cities.
+This map shows the establishment years of high school CCAS for all examined cities:
 
 ![High School CCAS Establishment Year](/assets/img/H.png)
-
-![Primary and Middle School CCAS Establishment Year](/assets/img/PM.png)

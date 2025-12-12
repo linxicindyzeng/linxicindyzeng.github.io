@@ -30,7 +30,6 @@ Number and percentage of city-level CCAS in primary, middle, and high school adm
 
 ## Additional Graphs
 ---
-### Descriptive
 
 Below is an interactive graph of the age of each city's high school CCAS in 2020. <!-- I plan to develop this into a graph containing information from 2003 to 2022, and each year is a layer the user can select to display or hide. This would be a good visualization of the first movers (the cities with darker shades) and the dynamic spread over time. It will be easy given that I've already visualized 2020's data. I will only need a bit more time to learn addTiles(). -->
 

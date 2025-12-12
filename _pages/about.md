@@ -20,6 +20,6 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome!
 
-I am an aspiring economist interested in labor, spatial, and health economics. I am currently a predoc at Stanford Institute for Economic Policy Research (SIEPR).
+I am an aspiring economist interested in labor, public, political economy, and industrial organization. I am currently a predoc at Stanford Institute for Economic Policy Research (SIEPR).
 
 Email: zlxcindy@stanford.edu

@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Linxi Cindy
+first_name: Cindy Linxi
 middle_name:
 last_name: Zeng
 email: zlxcindy@stanford.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Academic and personal site for Linxi Cindy Zeng.
+  Academic site for Cindy Linxi Zeng.
 footer_text: ""
 keywords: cindy, labor economics, education, causal inference  # add your own keywords or leave empty
 
